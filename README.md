@@ -2,13 +2,19 @@
 
 Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-tolerant applications and Distributed Systems. Well-versed in numerous technologies including Typescript, Go, React, Graphql, Docker, Kubernetes and AWS.
 
+To know more, follow me on [Twitter](https://twitter.com/pragmaticivan).
 
-If you fancy a chat, drop me a line at:
+#### 👨‍💻 Repositories I created recently
 
-<ul>
-  <li>
-    <img src="https://user-images.githubusercontent.com/3603793/87077942-4b727b00-c1fa-11ea-890c-c1249a500a57.png" width="16" alt="Twitter"> 
-    <a href="https://twitter.com/pragmaticivan" target="_blank" title="@pragmaticivan">Twitter</a>
-  </li>
-</ul>
+- [pragmaticivan/learn-you-some-rust](https://github.com/pragmaticivan/learn-you-some-rust)
+- [pragmaticivan/mr-octocat](https://github.com/pragmaticivan/mr-octocat) - React Playground with Github API
+- [pragmaticivan/tinyestate-db](https://github.com/pragmaticivan/tinyestate-db)
+- [pragmaticivan/tinyestate-api](https://github.com/pragmaticivan/tinyestate-api)
+- [pragmaticivan/vikingflomconstruction](https://github.com/pragmaticivan/vikingflomconstruction)
 
+#### 🚀 Latest releases I've contributed to
+
+- [getantibody/antibody](https://github.com/getantibody/antibody) ([v6.1.1](https://github.com/getantibody/antibody/releases/tag/v6.1.1), 4 days ago) - The fastest shell plugin manager.
+- [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v0.21.1](https://github.com/blitz-js/blitz/releases/tag/v0.21.1), 5 days ago) - ⚡️The Fullstack React Framework — built on Next.js
+- [pragmaticivan/dotfiles](https://github.com/pragmaticivan/dotfiles) ([v1.0.0](https://github.com/pragmaticivan/dotfiles/releases/tag/v1.0.0), 3 years ago) - :sunglasses: Dotfiles
+- [pragmaticivan/ivansantos.me](https://github.com/pragmaticivan/ivansantos.me) ([3.0.0](https://github.com/pragmaticivan/ivansantos.me/releases/tag/3.0.0), 3 years ago) - :computer: My personal website
