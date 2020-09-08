@@ -6,11 +6,9 @@ To know more, follow me on [Twitter](https://twitter.com/pragmaticivan).
 
 #### 👨‍💻 Repositories I created recently
 
+- [pragmaticivan/learn-you-some-go](https://github.com/pragmaticivan/learn-you-some-go)
 - [pragmaticivan/learn-you-some-rust](https://github.com/pragmaticivan/learn-you-some-rust)
 - [pragmaticivan/mr-octocat](https://github.com/pragmaticivan/mr-octocat) - React Playground with Github API
-- [pragmaticivan/tinyestate-db](https://github.com/pragmaticivan/tinyestate-db)
-- [pragmaticivan/tinyestate-api](https://github.com/pragmaticivan/tinyestate-api)
-- [pragmaticivan/vikingflomconstruction](https://github.com/pragmaticivan/vikingflomconstruction)
 
 #### 🚀 Latest releases I've contributed to
 
