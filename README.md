@@ -12,8 +12,8 @@ To know more, follow me on [Twitter](https://twitter.com/pragmaticivan).
 
 #### 🚀 Latest releases I've contributed to
 
-- [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v0.30.0-canary.5](https://github.com/blitz-js/blitz/releases/tag/v0.30.0-canary.5), 2 days ago) - ⚡️The Fullstack React Framework — built on Next.js
-- [google-github-actions/release-please-action](https://github.com/google-github-actions/release-please-action) ([v2.16.0](https://github.com/google-github-actions/release-please-action/releases/tag/v2.16.0), 5 days ago) - automated releases based on conventional commits
+- [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v0.30.0-canary.6](https://github.com/blitz-js/blitz/releases/tag/v0.30.0-canary.6), 1 day ago) - ⚡️The Fullstack React Framework — built on Next.js
+- [google-github-actions/release-please-action](https://github.com/google-github-actions/release-please-action) ([v2.16.0](https://github.com/google-github-actions/release-please-action/releases/tag/v2.16.0), 6 days ago) - automated releases based on conventional commits
 - [getantibody/antibody](https://github.com/getantibody/antibody) ([v6.1.1](https://github.com/getantibody/antibody/releases/tag/v6.1.1), 5 months ago) - The fastest shell plugin manager.
 - [pragmaticivan/dotfiles](https://github.com/pragmaticivan/dotfiles) ([v1.0.0](https://github.com/pragmaticivan/dotfiles/releases/tag/v1.0.0), 3 years ago) - :sunglasses: Dotfiles
 - [pragmaticivan/ivansantos.me](https://github.com/pragmaticivan/ivansantos.me) ([3.0.0](https://github.com/pragmaticivan/ivansantos.me/releases/tag/3.0.0), 3 years ago) - :computer: My personal website
