@@ -12,7 +12,8 @@ To know more, follow me on [Twitter](https://twitter.com/pragmaticivan).
 
 #### 🚀 Latest releases I've contributed to
 
-- [google-github-actions/release-please-action](https://github.com/google-github-actions/release-please-action) ([v2.18.0](https://github.com/google-github-actions/release-please-action/releases/tag/v2.18.0), 1 day ago) - automated releases based on conventional commits
+- [remoteday/rd-api](https://github.com/remoteday/rd-api) ([v1.0.0](https://github.com/remoteday/rd-api/releases/tag/v1.0.0), 1 day ago)
+- [google-github-actions/release-please-action](https://github.com/google-github-actions/release-please-action) ([v2.17.0](https://github.com/google-github-actions/release-please-action/releases/tag/v2.17.0), 1 week ago) - automated releases based on conventional commits
 - [getantibody/antibody](https://github.com/getantibody/antibody) ([v6.1.1](https://github.com/getantibody/antibody/releases/tag/v6.1.1), 5 months ago) - The fastest shell plugin manager.
 - [pragmaticivan/dotfiles](https://github.com/pragmaticivan/dotfiles) ([v1.0.0](https://github.com/pragmaticivan/dotfiles/releases/tag/v1.0.0), 3 years ago) - :sunglasses: Dotfiles
 - [pragmaticivan/ivansantos.me](https://github.com/pragmaticivan/ivansantos.me) ([3.0.0](https://github.com/pragmaticivan/ivansantos.me/releases/tag/3.0.0), 3 years ago) - :computer: My personal website
