@@ -2,7 +2,9 @@
 
 Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-tolerant applications and Distributed Systems. Well-versed in numerous technologies including Typescript, Go, React, Graphql, Docker, Kubernetes and AWS.
 
-To know more, follow me on [Twitter](https://twitter.com/pragmaticivan).
+[![Twitter Badge](https://img.shields.io/badge/-@pragmaticivan-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/pragmaticivan)](https://twitter.com/pragmaticivan)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pragmaticivan/)](https://www.linkedin.com/in/pragmaticivan/)
+
 
 #### 👨‍💻 Repositories I created recently
 {{range recentRepos 3}}
