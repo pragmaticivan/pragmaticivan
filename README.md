@@ -14,7 +14,7 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 
 #### 🚀 Latest releases I've contributed to
 
-- [google-github-actions/release-please-action](https://github.com/google-github-actions/release-please-action) ([v2.23.0](https://github.com/google-github-actions/release-please-action/releases/tag/v2.23.0), today) - automated releases based on conventional commits
+- [google-github-actions/release-please-action](https://github.com/google-github-actions/release-please-action) ([v2.24.1](https://github.com/google-github-actions/release-please-action/releases/tag/v2.24.1), today) - automated releases based on conventional commits
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v0.33.0](https://github.com/blitz-js/blitz/releases/tag/v0.33.0), 1 week ago) - ⚡️The Fullstack React Framework — built on Next.js
 - [pragmaticivan/mikro-orm-entity-factory](https://github.com/pragmaticivan/mikro-orm-entity-factory) ([v0.2.2](https://github.com/pragmaticivan/mikro-orm-entity-factory/releases/tag/v0.2.2), 3 weeks ago) - A MikroORM testing utility for bulk inserting entity objects.
 - [remoteday/rd-api](https://github.com/remoteday/rd-api) ([v1.0.0](https://github.com/remoteday/rd-api/releases/tag/v1.0.0), 1 month ago)
