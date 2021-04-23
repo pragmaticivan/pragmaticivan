@@ -14,8 +14,8 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 
 #### 🚀 Latest releases I've contributed to
 
-- [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v0.34.3](https://github.com/blitz-js/blitz/releases/tag/v0.34.3), 1 day ago) - ⚡️The Fullstack React Framework — built on Next.js
-- [google-github-actions/release-please-action](https://github.com/google-github-actions/release-please-action) ([v2.25.0](https://github.com/google-github-actions/release-please-action/releases/tag/v2.25.0), 2 days ago) - automated releases based on conventional commits
+- [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v0.34.3](https://github.com/blitz-js/blitz/releases/tag/v0.34.3), 2 days ago) - ⚡️The Fullstack React Framework — built on Next.js
+- [google-github-actions/release-please-action](https://github.com/google-github-actions/release-please-action) ([v2.25.0](https://github.com/google-github-actions/release-please-action/releases/tag/v2.25.0), 3 days ago) - automated releases based on conventional commits
 - [pragmaticivan/mikro-orm-entity-factory](https://github.com/pragmaticivan/mikro-orm-entity-factory) ([v0.2.2](https://github.com/pragmaticivan/mikro-orm-entity-factory/releases/tag/v0.2.2), 1 month ago) - A MikroORM testing utility for bulk inserting entity objects.
 - [remoteday/rd-api](https://github.com/remoteday/rd-api) ([v1.0.0](https://github.com/remoteday/rd-api/releases/tag/v1.0.0), 2 months ago)
 - [getantibody/antibody](https://github.com/getantibody/antibody) ([v6.1.1](https://github.com/getantibody/antibody/releases/tag/v6.1.1), 7 months ago) - The fastest shell plugin manager.
