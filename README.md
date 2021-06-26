@@ -8,14 +8,16 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 
 #### 👨‍💻 Repositories I created recently
 
+- [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) - OpenTelemetry module for Nest framework (node.js)  🔭
 - [pragmaticivan/mikro-orm-entity-factory](https://github.com/pragmaticivan/mikro-orm-entity-factory) - A MikroORM testing utility for bulk inserting entity objects.
 - [pragmaticivan/flux2-chart](https://github.com/pragmaticivan/flux2-chart)
-- [pragmaticivan/learn-you-some-go](https://github.com/pragmaticivan/learn-you-some-go)
 
 #### 🚀 Latest releases I've contributed to
 
-- [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v0.38.3-canary.0](https://github.com/blitz-js/blitz/releases/tag/v0.38.3-canary.0), 1 day ago) - ⚡️The Fullstack React Framework — built on Next.js
-- [google-github-actions/release-please-action](https://github.com/google-github-actions/release-please-action) ([v2.28.1](https://github.com/google-github-actions/release-please-action/releases/tag/v2.28.1), 5 days ago) - automated releases based on conventional commits
+- [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) ([v1.2.1](https://github.com/pragmaticivan/nestjs-otel/releases/tag/v1.2.1), 1 day ago) - OpenTelemetry module for Nest framework (node.js)  🔭
+- [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v0.38.3-canary.1](https://github.com/blitz-js/blitz/releases/tag/v0.38.3-canary.1), 1 day ago) - ⚡️The Fullstack React Framework — built on Next.js
+- [google-github-actions/release-please-action](https://github.com/google-github-actions/release-please-action) ([v2.28.1](https://github.com/google-github-actions/release-please-action/releases/tag/v2.28.1), 6 days ago) - automated releases based on conventional commits
+- [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([v0.22.0](https://github.com/open-telemetry/opentelemetry-js/releases/tag/v0.22.0), 1 week ago) - OpenTelemetry JavaScript Client
 - [pragmaticivan/mikro-orm-entity-factory](https://github.com/pragmaticivan/mikro-orm-entity-factory) ([v0.2.2](https://github.com/pragmaticivan/mikro-orm-entity-factory/releases/tag/v0.2.2), 3 months ago) - A MikroORM testing utility for bulk inserting entity objects.
 - [remoteday/rd-api](https://github.com/remoteday/rd-api) ([v1.0.0](https://github.com/remoteday/rd-api/releases/tag/v1.0.0), 4 months ago)
 - [getantibody/antibody](https://github.com/getantibody/antibody) ([v6.1.1](https://github.com/getantibody/antibody/releases/tag/v6.1.1), 9 months ago) - The fastest shell plugin manager.
