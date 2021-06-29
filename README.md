@@ -14,8 +14,8 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 
 #### 🚀 Latest releases I've contributed to
 
-- [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) ([v1.2.3](https://github.com/pragmaticivan/nestjs-otel/releases/tag/v1.2.3), 1 day ago) - OpenTelemetry module for Nest framework (node.js)  🔭
-- [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v0.38.3-canary.1](https://github.com/blitz-js/blitz/releases/tag/v0.38.3-canary.1), 3 days ago) - ⚡️The Fullstack React Framework — built on Next.js
+- [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) ([v1.3.0](https://github.com/pragmaticivan/nestjs-otel/releases/tag/v1.3.0), 1 day ago) - OpenTelemetry module for Nest framework (node.js)  🔭
+- [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v0.38.3-canary.1](https://github.com/blitz-js/blitz/releases/tag/v0.38.3-canary.1), 4 days ago) - ⚡️The Fullstack React Framework — built on Next.js
 - [google-github-actions/release-please-action](https://github.com/google-github-actions/release-please-action) ([v2.28.1](https://github.com/google-github-actions/release-please-action/releases/tag/v2.28.1), 1 week ago) - automated releases based on conventional commits
 - [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([v0.22.0](https://github.com/open-telemetry/opentelemetry-js/releases/tag/v0.22.0), 1 week ago) - OpenTelemetry JavaScript Client
 - [pragmaticivan/mikro-orm-entity-factory](https://github.com/pragmaticivan/mikro-orm-entity-factory) ([v0.2.2](https://github.com/pragmaticivan/mikro-orm-entity-factory/releases/tag/v0.2.2), 3 months ago) - A MikroORM testing utility for bulk inserting entity objects.
