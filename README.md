@@ -14,7 +14,7 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 
 #### 🚀 Latest releases I've contributed to
 
-- [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) ([v1.7.0](https://github.com/pragmaticivan/nestjs-otel/releases/tag/v1.7.0), 4 days ago) - OpenTelemetry module for Nest framework (node.js)  🔭
+- [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) ([v1.7.0](https://github.com/pragmaticivan/nestjs-otel/releases/tag/v1.7.0), 5 days ago) - OpenTelemetry module for Nest framework (node.js)  🔭
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v0.38.5](https://github.com/blitz-js/blitz/releases/tag/v0.38.5), 1 week ago) - ⚡️The Fullstack React Framework — built on Next.js
 - [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([v0.23.0](https://github.com/open-telemetry/opentelemetry-js/releases/tag/v0.23.0), 2 weeks ago) - OpenTelemetry JavaScript Client
 - [pragmaticivan/mikro-orm-entity-factory](https://github.com/pragmaticivan/mikro-orm-entity-factory) ([v0.4.0](https://github.com/pragmaticivan/mikro-orm-entity-factory/releases/tag/v0.4.0), 2 weeks ago) - A MikroORM testing utility for bulk inserting entity objects.
