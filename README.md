@@ -14,9 +14,9 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 
 #### 🚀 Latest releases I've contributed to
 
-- [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v0.38.6](https://github.com/blitz-js/blitz/releases/tag/v0.38.6), 1 day ago) - ⚡️The Fullstack React Framework — built on Next.js
+- [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v0.38.6](https://github.com/blitz-js/blitz/releases/tag/v0.38.6), 2 days ago) - ⚡️The Fullstack React Framework — built on Next.js
 - [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) ([v1.7.0](https://github.com/pragmaticivan/nestjs-otel/releases/tag/v1.7.0), 1 week ago) - OpenTelemetry module for Nest framework (node.js)  🔭
-- [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([v0.23.0](https://github.com/open-telemetry/opentelemetry-js/releases/tag/v0.23.0), 2 weeks ago) - OpenTelemetry JavaScript Client
+- [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([v0.23.0](https://github.com/open-telemetry/opentelemetry-js/releases/tag/v0.23.0), 3 weeks ago) - OpenTelemetry JavaScript Client
 - [pragmaticivan/mikro-orm-entity-factory](https://github.com/pragmaticivan/mikro-orm-entity-factory) ([v0.4.0](https://github.com/pragmaticivan/mikro-orm-entity-factory/releases/tag/v0.4.0), 3 weeks ago) - A MikroORM testing utility for bulk inserting entity objects.
 - [google-github-actions/release-please-action](https://github.com/google-github-actions/release-please-action) ([v2.28.1](https://github.com/google-github-actions/release-please-action/releases/tag/v2.28.1), 1 month ago) - automated releases based on conventional commits
 - [remoteday/rd-api](https://github.com/remoteday/rd-api) ([v1.0.0](https://github.com/remoteday/rd-api/releases/tag/v1.0.0), 5 months ago)
