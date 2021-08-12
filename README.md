@@ -14,7 +14,7 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 
 #### 🚀 Latest releases I've contributed to
 
-- [google-github-actions/release-please-action](https://github.com/google-github-actions/release-please-action) ([v2.29.2](https://github.com/google-github-actions/release-please-action/releases/tag/v2.29.2), 6 days ago) - automated releases based on conventional commits
+- [google-github-actions/release-please-action](https://github.com/google-github-actions/release-please-action) ([v2.29.2](https://github.com/google-github-actions/release-please-action/releases/tag/v2.29.2), 1 week ago) - automated releases based on conventional commits
 - [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) ([v2.2.0](https://github.com/pragmaticivan/nestjs-otel/releases/tag/v2.2.0), 1 week ago) - OpenTelemetry module for Nest framework (node.js)  🔭
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v0.39.0-canary.0](https://github.com/blitz-js/blitz/releases/tag/v0.39.0-canary.0), 1 week ago) - ⚡️The Fullstack React Framework — built on Next.js
 - [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([v0.24.0](https://github.com/open-telemetry/opentelemetry-js/releases/tag/v0.24.0), 2 weeks ago) - OpenTelemetry JavaScript Client
