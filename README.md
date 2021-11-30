@@ -14,7 +14,7 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 
 #### 🚀 Latest releases I've contributed to
 
-- [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) ([cmd/builder/v0.40.0](https://github.com/open-telemetry/opentelemetry-collector/releases/tag/cmd%2Fbuilder%2Fv0.40.0), 4 days ago) - OpenTelemetry Collector
+- [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) ([cmd/builder/v0.40.0](https://github.com/open-telemetry/opentelemetry-collector/releases/tag/cmd%2Fbuilder%2Fv0.40.0), 5 days ago) - OpenTelemetry Collector
 - [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([stable/v1.0.1](https://github.com/open-telemetry/opentelemetry-js/releases/tag/stable%2Fv1.0.1), 2 weeks ago) - OpenTelemetry JavaScript Client
 - [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) ([v2.6.1](https://github.com/pragmaticivan/nestjs-otel/releases/tag/v2.6.1), 1 month ago) - OpenTelemetry (Tracing &#43; Metrics) module for Nest framework (node.js)  🔭
 - [google-github-actions/release-please-action](https://github.com/google-github-actions/release-please-action) ([v2.34.0](https://github.com/google-github-actions/release-please-action/releases/tag/v2.34.0), 1 month ago) - automated releases based on conventional commits
