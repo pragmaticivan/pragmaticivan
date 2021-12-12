@@ -14,9 +14,9 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 
 #### 🚀 Latest releases I've contributed to
 
-- [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) ([v0.41.0](https://github.com/open-telemetry/opentelemetry-collector/releases/tag/v0.41.0), 2 days ago) - OpenTelemetry Collector
+- [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) ([v0.41.0](https://github.com/open-telemetry/opentelemetry-collector/releases/tag/v0.41.0), 3 days ago) - OpenTelemetry Collector
 - [google-github-actions/release-please-action](https://github.com/google-github-actions/release-please-action) ([v2.35.0](https://github.com/google-github-actions/release-please-action/releases/tag/v2.35.0), 1 week ago) - automated releases based on conventional commits
 - [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([stable/v1.0.1](https://github.com/open-telemetry/opentelemetry-js/releases/tag/stable%2Fv1.0.1), 3 weeks ago) - OpenTelemetry JavaScript Client
-- [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) ([v2.6.1](https://github.com/pragmaticivan/nestjs-otel/releases/tag/v2.6.1), 1 month ago) - OpenTelemetry (Tracing &#43; Metrics) module for Nest framework (node.js)  🔭
+- [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) ([v2.6.1](https://github.com/pragmaticivan/nestjs-otel/releases/tag/v2.6.1), 2 months ago) - OpenTelemetry (Tracing &#43; Metrics) module for Nest framework (node.js)  🔭
 - [pragmaticivan/mikro-orm-entity-factory](https://github.com/pragmaticivan/mikro-orm-entity-factory) ([v0.4.0](https://github.com/pragmaticivan/mikro-orm-entity-factory/releases/tag/v0.4.0), 5 months ago) - A MikroORM testing utility for bulk inserting entity objects.
 - [remoteday/rd-api](https://github.com/remoteday/rd-api) ([v1.0.0](https://github.com/remoteday/rd-api/releases/tag/v1.0.0), 10 months ago)
