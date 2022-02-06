@@ -1,6 +1,6 @@
 ### Howdy! 🤠
 
-Hi, I’m Ivan, a Brazilian software engineer specializing in fault-tolerant applications and Distributed Systems. Well-versed in numerous technologies, including Node.js, Go, React, Graphql, Docker, Kubernetes, and AWS.
+Hi, I’m Ivan, a Brazilian software engineer specializing in fault-tolerant applications and Distributed Systems. Well-versed in numerous technologies, including Node.js, Go, Typescript, Terraform, Docker, Kubernetes, and AWS.
 
 [![Twitter Badge](https://img.shields.io/badge/-@pragmaticivan-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/pragmaticivan)](https://twitter.com/pragmaticivan)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pragmaticivan/)](https://www.linkedin.com/in/pragmaticivan/)
