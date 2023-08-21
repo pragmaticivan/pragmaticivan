@@ -6,8 +6,8 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pragmaticivan/)](https://www.linkedin.com/in/pragmaticivan/)
 
 ![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pragmaticivan&show_icons=true&theme=transparent)
-#### 👨‍💻 Repositories I created recently
 
+#### 👨‍💻 Repositories I created recently
 {{range recentRepos 3}}
 - [{{.Name}}]({{.URL}}){{ with .Description }} - {{.}}{{ end }}
 {{- end}}
