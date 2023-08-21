@@ -1,6 +1,6 @@
 ### Howdy! 🤠
 
-Hi, I’m Ivan, a Brazilian software engineer specializing in fault-tolerant applications and Distributed Systems. Well-versed in numerous technologies, including Node.js, Go, Typescript, Terraform, Docker, Kubernetes, and AWS.
+Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-tolerant applications and Distributed Systems. Well-versed in numerous technologies including Typescript, Go, React, Graphql, Docker, Kubernetes and AWS.
 
 [![Twitter Badge](https://img.shields.io/badge/-@pragmaticivan-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/pragmaticivan)](https://twitter.com/pragmaticivan)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pragmaticivan/)](https://www.linkedin.com/in/pragmaticivan/)
@@ -14,15 +14,15 @@ Hi, I’m Ivan, a Brazilian software engineer specializing in fault-tolerant app
 
 #### 👨‍💻 Repositories I created recently
 
-- [pragmaticivan/learn-go-with-tests](https://github.com/pragmaticivan/learn-go-with-tests)
-- [pragmaticivan/express-multer-otel-bug](https://github.com/pragmaticivan/express-multer-otel-bug)
-- [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) - OpenTelemetry (Tracing &#43; Metrics) module for Nest framework (node.js)  🔭
+- [pragmaticivan/nestjs-otel-prom-grafana-tempo-otel-collector](https://github.com/pragmaticivan/nestjs-otel-prom-grafana-tempo-otel-collector) - nestjs-otel-prom-grafana-tempo-otel-collector
+- [pragmaticivan/nestjs-otel-fastify-prom-grafana-tempo](https://github.com/pragmaticivan/nestjs-otel-fastify-prom-grafana-tempo) - nestjs-otel-fastify-prom-grafana-tempo
+- [pragmaticivan/nestjs-otel-prom-grafana-tempo](https://github.com/pragmaticivan/nestjs-otel-prom-grafana-tempo) - nestjs-otel-prom-grafana-tempo
 
 #### 🚀 Latest releases I've contributed to
 
-- [google-github-actions/release-please-action](https://github.com/google-github-actions/release-please-action) ([v3.1.0](https://github.com/google-github-actions/release-please-action/releases/tag/v3.1.0), 2 days ago) - automated releases based on conventional commits
-- [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) ([v0.42.0](https://github.com/open-telemetry/opentelemetry-collector/releases/tag/v0.42.0), 2 weeks ago) - OpenTelemetry Collector
-- [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) ([v3.0.1](https://github.com/pragmaticivan/nestjs-otel/releases/tag/v3.0.1), 3 weeks ago) - OpenTelemetry (Tracing &#43; Metrics) module for Nest framework (node.js)  🔭
-- [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([stable/v1.0.1](https://github.com/open-telemetry/opentelemetry-js/releases/tag/stable%2Fv1.0.1), 2 months ago) - OpenTelemetry JavaScript Client
-- [pragmaticivan/mikro-orm-entity-factory](https://github.com/pragmaticivan/mikro-orm-entity-factory) ([v0.4.0](https://github.com/pragmaticivan/mikro-orm-entity-factory/releases/tag/v0.4.0), 6 months ago) - A MikroORM testing utility for bulk inserting entity objects.
-- [remoteday/rd-api](https://github.com/remoteday/rd-api) ([v1.0.0](https://github.com/remoteday/rd-api/releases/tag/v1.0.0), 11 months ago)
+- [newrelic/docs-website](https://github.com/newrelic/docs-website) ([release-08.14.2023-09.56](https://github.com/newrelic/docs-website/releases/tag/release-08.14.2023-09.56), 1 week ago) - Source code for @newrelic docs. We welcome pull requests and questions on our docs!
+- [kedacore/keda](https://github.com/kedacore/keda) ([v2.11.2](https://github.com/kedacore/keda/releases/tag/v2.11.2), 3 weeks ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
+- [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) ([v5.1.4](https://github.com/pragmaticivan/nestjs-otel/releases/tag/v5.1.4), 1 month ago) - OpenTelemetry (Tracing &#43; Metrics) module for Nest framework (node.js)  🔭
+- [inception-health/otel-export-trace-action](https://github.com/inception-health/otel-export-trace-action) ([v1.8.0](https://github.com/inception-health/otel-export-trace-action/releases/tag/v1.8.0), 5 months ago)
+- [pragmaticivan/mikro-orm-entity-factory](https://github.com/pragmaticivan/mikro-orm-entity-factory) ([v1.0.0](https://github.com/pragmaticivan/mikro-orm-entity-factory/releases/tag/v1.0.0), 1 year ago) - A MikroORM testing utility for bulk inserting entity objects.
+- [pragmaticivan/ivansantos.me](https://github.com/pragmaticivan/ivansantos.me) ([3.0.0](https://github.com/pragmaticivan/ivansantos.me/releases/tag/3.0.0), 6 years ago) - :computer: My personal website
