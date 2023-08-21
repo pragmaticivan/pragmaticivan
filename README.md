@@ -6,6 +6,7 @@ Hi, I’m Ivan, a Brazilian software engineer specializing in fault-tolerant app
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pragmaticivan/)](https://www.linkedin.com/in/pragmaticivan/)
 
 ![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pragmaticivan&show_icons=true&theme=transparent)
+![Ivan's Lang stats](https://github-readme-stats.vercel.app/api/top-langs?username=onlydole&layout=compact&langs_count=8&card_width=320&theme=transparent)
 
 #### 👨‍💻 Repositories I created recently
 
