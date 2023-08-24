@@ -20,8 +20,8 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 
 #### 🚀 Latest releases I've contributed to
 
-- [newrelic/docs-website](https://github.com/newrelic/docs-website) ([release-08.14.2023-09.56](https://github.com/newrelic/docs-website/releases/tag/release-08.14.2023-09.56), 1 week ago) - Source code for @newrelic docs. We welcome pull requests and questions on our docs!
-- [kedacore/keda](https://github.com/kedacore/keda) ([v2.11.2](https://github.com/kedacore/keda/releases/tag/v2.11.2), 3 weeks ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
+- [newrelic/docs-website](https://github.com/newrelic/docs-website) ([release-08.23.2023-14.13](https://github.com/newrelic/docs-website/releases/tag/release-08.23.2023-14.13), 1 day ago) - Source code for @newrelic docs. We welcome pull requests and questions on our docs!
+- [kedacore/keda](https://github.com/kedacore/keda) ([v2.11.2](https://github.com/kedacore/keda/releases/tag/v2.11.2), 4 weeks ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
 - [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) ([v5.1.4](https://github.com/pragmaticivan/nestjs-otel/releases/tag/v5.1.4), 1 month ago) - OpenTelemetry (Tracing &#43; Metrics) module for Nest framework (node.js)  🔭
 - [inception-health/otel-export-trace-action](https://github.com/inception-health/otel-export-trace-action) ([v1.8.0](https://github.com/inception-health/otel-export-trace-action/releases/tag/v1.8.0), 5 months ago)
 - [pragmaticivan/mikro-orm-entity-factory](https://github.com/pragmaticivan/mikro-orm-entity-factory) ([v1.0.0](https://github.com/pragmaticivan/mikro-orm-entity-factory/releases/tag/v1.0.0), 1 year ago) - A MikroORM testing utility for bulk inserting entity objects.
