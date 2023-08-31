@@ -20,7 +20,7 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 
 #### 🚀 Latest releases I've contributed to
 
-- [newrelic/docs-website](https://github.com/newrelic/docs-website) ([release-08.29.2023-12.24](https://github.com/newrelic/docs-website/releases/tag/release-08.29.2023-12.24), 1 day ago) - Source code for @newrelic docs. We welcome pull requests and questions on our docs!
+- [newrelic/docs-website](https://github.com/newrelic/docs-website) ([release-08.30.2023-15.49](https://github.com/newrelic/docs-website/releases/tag/release-08.30.2023-15.49), 1 day ago) - Source code for @newrelic docs. We welcome pull requests and questions on our docs!
 - [kedacore/keda](https://github.com/kedacore/keda) ([v2.11.2](https://github.com/kedacore/keda/releases/tag/v2.11.2), 1 month ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
 - [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) ([v5.1.4](https://github.com/pragmaticivan/nestjs-otel/releases/tag/v5.1.4), 2 months ago) - OpenTelemetry (Tracing &#43; Metrics) module for Nest framework (node.js)  🔭
 - [inception-health/otel-export-trace-action](https://github.com/inception-health/otel-export-trace-action) ([v1.8.0](https://github.com/inception-health/otel-export-trace-action/releases/tag/v1.8.0), 5 months ago)
