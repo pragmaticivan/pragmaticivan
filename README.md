@@ -20,9 +20,9 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 
 #### 🚀 Latest releases I've contributed to
 
-- [newrelic/docs-website](https://github.com/newrelic/docs-website) ([release-09.01.2023-08.04](https://github.com/newrelic/docs-website/releases/tag/release-09.01.2023-08.04), 3 days ago) - Source code for @newrelic docs. We welcome pull requests and questions on our docs!
+- [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) ([v5.1.5](https://github.com/pragmaticivan/nestjs-otel/releases/tag/v5.1.5), 1 day ago) - OpenTelemetry (Tracing &#43; Metrics) module for Nest framework (node.js)  🔭
+- [newrelic/docs-website](https://github.com/newrelic/docs-website) ([release-09.01.2023-08.04](https://github.com/newrelic/docs-website/releases/tag/release-09.01.2023-08.04), 4 days ago) - Source code for @newrelic docs. We welcome pull requests and questions on our docs!
 - [kedacore/keda](https://github.com/kedacore/keda) ([v2.11.2](https://github.com/kedacore/keda/releases/tag/v2.11.2), 1 month ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
-- [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) ([v5.1.4](https://github.com/pragmaticivan/nestjs-otel/releases/tag/v5.1.4), 2 months ago) - OpenTelemetry (Tracing &#43; Metrics) module for Nest framework (node.js)  🔭
 - [inception-health/otel-export-trace-action](https://github.com/inception-health/otel-export-trace-action) ([v1.8.0](https://github.com/inception-health/otel-export-trace-action/releases/tag/v1.8.0), 6 months ago)
 - [pragmaticivan/mikro-orm-entity-factory](https://github.com/pragmaticivan/mikro-orm-entity-factory) ([v1.0.0](https://github.com/pragmaticivan/mikro-orm-entity-factory/releases/tag/v1.0.0), 1 year ago) - A MikroORM testing utility for bulk inserting entity objects.
 - [pragmaticivan/ivansantos.me](https://github.com/pragmaticivan/ivansantos.me) ([3.0.0](https://github.com/pragmaticivan/ivansantos.me/releases/tag/3.0.0), 6 years ago) - :computer: My personal website
