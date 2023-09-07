@@ -20,8 +20,9 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 
 #### 🚀 Latest releases I've contributed to
 
-- [newrelic/docs-website](https://github.com/newrelic/docs-website) ([release-09.05.2023-14.06](https://github.com/newrelic/docs-website/releases/tag/release-09.05.2023-14.06), 1 day ago) - Source code for @newrelic docs. We welcome pull requests and questions on our docs!
-- [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) ([v5.1.5](https://github.com/pragmaticivan/nestjs-otel/releases/tag/v5.1.5), 2 days ago) - OpenTelemetry (Tracing &#43; Metrics) module for Nest framework (node.js)  🔭
+- [newrelic/docs-website](https://github.com/newrelic/docs-website) ([release-09.06.2023-14.01](https://github.com/newrelic/docs-website/releases/tag/release-09.06.2023-14.01), 1 day ago) - Source code for @newrelic docs. We welcome pull requests and questions on our docs!
+- [port-labs/ocean](https://github.com/port-labs/ocean) ([v0.3.0](https://github.com/port-labs/ocean/releases/tag/v0.3.0), 1 day ago) - 🌊 Ocean 🌊 is an innovative solution developed by Port to seamlessly integrate various third-party systems with our developer portal product, empowering engineers to effortlessly prioritize key features and streamline the integration process.
+- [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) ([v5.1.5](https://github.com/pragmaticivan/nestjs-otel/releases/tag/v5.1.5), 3 days ago) - OpenTelemetry (Tracing &#43; Metrics) module for Nest framework (node.js)  🔭
 - [kedacore/keda](https://github.com/kedacore/keda) ([v2.11.2](https://github.com/kedacore/keda/releases/tag/v2.11.2), 1 month ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
 - [inception-health/otel-export-trace-action](https://github.com/inception-health/otel-export-trace-action) ([v1.8.0](https://github.com/inception-health/otel-export-trace-action/releases/tag/v1.8.0), 6 months ago)
 - [pragmaticivan/mikro-orm-entity-factory](https://github.com/pragmaticivan/mikro-orm-entity-factory) ([v1.0.0](https://github.com/pragmaticivan/mikro-orm-entity-factory/releases/tag/v1.0.0), 1 year ago) - A MikroORM testing utility for bulk inserting entity objects.
