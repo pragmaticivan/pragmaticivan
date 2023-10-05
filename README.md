@@ -20,8 +20,8 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 
 #### 🚀 Latest releases I've contributed to
 
-- [newrelic/docs-website](https://github.com/newrelic/docs-website) ([release-10.03.2023-14.05](https://github.com/newrelic/docs-website/releases/tag/release-10.03.2023-14.05), 1 day ago) - Source code for @newrelic docs. We welcome pull requests and questions on our docs!
-- [kedacore/keda](https://github.com/kedacore/keda) ([v2.12.0](https://github.com/kedacore/keda/releases/tag/v2.12.0), 6 days ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
+- [newrelic/docs-website](https://github.com/newrelic/docs-website) ([release-10.04.2023-12.20](https://github.com/newrelic/docs-website/releases/tag/release-10.04.2023-12.20), 1 day ago) - Source code for @newrelic docs. We welcome pull requests and questions on our docs!
+- [kedacore/keda](https://github.com/kedacore/keda) ([v2.12.0](https://github.com/kedacore/keda/releases/tag/v2.12.0), 1 week ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
 - [port-labs/ocean](https://github.com/port-labs/ocean) ([v0.3.1](https://github.com/port-labs/ocean/releases/tag/v0.3.1), 1 week ago) - 🌊 Ocean 🌊 is an innovative solution developed by Port to seamlessly integrate various third-party systems with our developer portal product, empowering engineers to effortlessly prioritize key features and streamline the integration process.
 - [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) ([v5.1.5](https://github.com/pragmaticivan/nestjs-otel/releases/tag/v5.1.5), 1 month ago) - OpenTelemetry (Tracing &#43; Metrics) module for Nest framework (node.js)  🔭
 - [inception-health/otel-export-trace-action](https://github.com/inception-health/otel-export-trace-action) ([v1.8.0](https://github.com/inception-health/otel-export-trace-action/releases/tag/v1.8.0), 7 months ago)
