@@ -14,13 +14,14 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 
 #### 👨‍💻 Repositories I created recently
 
+- [pragmaticivan/nest-resend](https://github.com/pragmaticivan/nest-resend)
 - [pragmaticivan/nestjs-otel-prom-grafana-tempo-otel-collector](https://github.com/pragmaticivan/nestjs-otel-prom-grafana-tempo-otel-collector) - nestjs-otel-prom-grafana-tempo-otel-collector
 - [pragmaticivan/nestjs-otel-fastify-prom-grafana-tempo](https://github.com/pragmaticivan/nestjs-otel-fastify-prom-grafana-tempo) - nestjs-otel-fastify-prom-grafana-tempo
-- [pragmaticivan/nestjs-otel-prom-grafana-tempo](https://github.com/pragmaticivan/nestjs-otel-prom-grafana-tempo) - nestjs-otel-prom-grafana-tempo
 
 #### 🚀 Latest releases I've contributed to
 
-- [newrelic/docs-website](https://github.com/newrelic/docs-website) ([release-10.20.2023-10.56](https://github.com/newrelic/docs-website/releases/tag/release-10.20.2023-10.56), 1 day ago) - Source code for @newrelic docs. We welcome pull requests and questions on our docs!
+- [pragmaticivan/nest-resend](https://github.com/pragmaticivan/nest-resend) ([v1.0.0](https://github.com/pragmaticivan/nest-resend/releases/tag/v1.0.0), 1 day ago)
+- [newrelic/docs-website](https://github.com/newrelic/docs-website) ([release-10.20.2023-10.56](https://github.com/newrelic/docs-website/releases/tag/release-10.20.2023-10.56), 2 days ago) - Source code for @newrelic docs. We welcome pull requests and questions on our docs!
 - [kedacore/keda](https://github.com/kedacore/keda) ([v2.12.0](https://github.com/kedacore/keda/releases/tag/v2.12.0), 3 weeks ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
 - [port-labs/ocean](https://github.com/port-labs/ocean) ([v0.3.1](https://github.com/port-labs/ocean/releases/tag/v0.3.1), 3 weeks ago) - 🌊 Ocean 🌊 is an innovative solution developed by Port to seamlessly integrate various third-party systems with our developer portal product, empowering engineers to effortlessly prioritize key features and streamline the integration process.
 - [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) ([v5.1.5](https://github.com/pragmaticivan/nestjs-otel/releases/tag/v5.1.5), 1 month ago) - OpenTelemetry (Tracing &#43; Metrics) module for Nest framework (node.js)  🔭
