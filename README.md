@@ -20,9 +20,9 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 
 #### 🚀 Latest releases I've contributed to
 
-- [newrelic/docs-website](https://github.com/newrelic/docs-website) ([release-11.02.2023-12.32](https://github.com/newrelic/docs-website/releases/tag/release-11.02.2023-12.32), 1 day ago) - Source code for @newrelic docs. We welcome pull requests and questions on our docs!
-- [port-labs/ocean](https://github.com/port-labs/ocean) ([v0.3.2](https://github.com/port-labs/ocean/releases/tag/v0.3.2), 5 days ago) - 🌊 Ocean 🌊 is an innovative solution developed by Port to seamlessly integrate various third-party systems with our developer portal product, empowering engineers to effortlessly prioritize key features and streamline the integration process.
-- [pragmaticivan/nest-resend](https://github.com/pragmaticivan/nest-resend) ([v1.0.0](https://github.com/pragmaticivan/nest-resend/releases/tag/v1.0.0), 1 week ago)
+- [newrelic/docs-website](https://github.com/newrelic/docs-website) ([release-11.03.2023-13.20](https://github.com/newrelic/docs-website/releases/tag/release-11.03.2023-13.20), 1 day ago) - Source code for @newrelic docs. We welcome pull requests and questions on our docs!
+- [port-labs/ocean](https://github.com/port-labs/ocean) ([v0.4.1](https://github.com/port-labs/ocean/releases/tag/v0.4.1), 1 day ago) - 🌊 Ocean 🌊 is an innovative solution developed by Port to seamlessly integrate various third-party systems with our developer portal product, empowering engineers to effortlessly prioritize key features and streamline the integration process.
+- [pragmaticivan/nest-resend](https://github.com/pragmaticivan/nest-resend) ([v1.0.0](https://github.com/pragmaticivan/nest-resend/releases/tag/v1.0.0), 2 weeks ago)
 - [kedacore/keda](https://github.com/kedacore/keda) ([v2.12.0](https://github.com/kedacore/keda/releases/tag/v2.12.0), 1 month ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
 - [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) ([v5.1.5](https://github.com/pragmaticivan/nestjs-otel/releases/tag/v5.1.5), 2 months ago) - OpenTelemetry (Tracing &#43; Metrics) module for Nest framework (node.js)  🔭
 - [inception-health/otel-export-trace-action](https://github.com/inception-health/otel-export-trace-action) ([v1.8.0](https://github.com/inception-health/otel-export-trace-action/releases/tag/v1.8.0), 8 months ago)
