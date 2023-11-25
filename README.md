@@ -20,7 +20,7 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 
 #### 🚀 Latest releases I've contributed to
 
-- [newrelic/docs-website](https://github.com/newrelic/docs-website) ([release-11.23.2023-12.02](https://github.com/newrelic/docs-website/releases/tag/release-11.23.2023-12.02), 1 day ago) - Source code for @newrelic docs. We welcome pull requests and questions on our docs!
+- [newrelic/docs-website](https://github.com/newrelic/docs-website) ([release-11.23.2023-12.02](https://github.com/newrelic/docs-website/releases/tag/release-11.23.2023-12.02), 2 days ago) - Source code for @newrelic docs. We welcome pull requests and questions on our docs!
 - [port-labs/ocean](https://github.com/port-labs/ocean) ([v0.4.3](https://github.com/port-labs/ocean/releases/tag/v0.4.3), 1 week ago) - 🌊 Ocean 🌊 is an innovative solution developed by Port to seamlessly integrate various third-party systems with our developer portal product, empowering engineers to effortlessly prioritize key features and streamline the integration process.
 - [pragmaticivan/nest-resend](https://github.com/pragmaticivan/nest-resend) ([v1.0.0](https://github.com/pragmaticivan/nest-resend/releases/tag/v1.0.0), 1 month ago) - Injectable Resend client for your nestjs projects
 - [kedacore/keda](https://github.com/kedacore/keda) ([v2.12.0](https://github.com/kedacore/keda/releases/tag/v2.12.0), 1 month ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
