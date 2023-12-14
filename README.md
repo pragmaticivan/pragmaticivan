@@ -20,8 +20,8 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 
 #### 🚀 Latest releases I've contributed to
 
-- [newrelic/docs-website](https://github.com/newrelic/docs-website) ([release-12.12.2023-13.06](https://github.com/newrelic/docs-website/releases/tag/release-12.12.2023-13.06), 1 day ago) - Source code for @newrelic docs. We welcome pull requests and questions on our docs!
-- [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action) ([0.16.0](https://github.com/aquasecurity/trivy-action/releases/tag/0.16.0), 5 days ago) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities
+- [newrelic/docs-website](https://github.com/newrelic/docs-website) ([release-12.12.2023-17.31](https://github.com/newrelic/docs-website/releases/tag/release-12.12.2023-17.31), 1 day ago) - Source code for @newrelic docs. We welcome pull requests and questions on our docs!
+- [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action) ([0.16.0](https://github.com/aquasecurity/trivy-action/releases/tag/0.16.0), 6 days ago) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities
 - [port-labs/ocean](https://github.com/port-labs/ocean) ([v0.4.7](https://github.com/port-labs/ocean/releases/tag/v0.4.7), 1 week ago) - 🌊 Ocean 🌊 is an innovative solution developed by Port to seamlessly integrate various third-party systems with our developer portal product, empowering engineers to effortlessly prioritize key features and streamline the integration process.
 - [kedacore/keda](https://github.com/kedacore/keda) ([v2.12.1](https://github.com/kedacore/keda/releases/tag/v2.12.1), 2 weeks ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
 - [pragmaticivan/nest-resend](https://github.com/pragmaticivan/nest-resend) ([v2.0.0](https://github.com/pragmaticivan/nest-resend/releases/tag/v2.0.0), 2 weeks ago) - Injectable Resend client for your nestjs projects
