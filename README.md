@@ -20,7 +20,7 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 
 #### 🚀 Latest releases I've contributed to
 
-- [newrelic/docs-website](https://github.com/newrelic/docs-website) ([release-12.28.2023-13.58](https://github.com/newrelic/docs-website/releases/tag/release-12.28.2023-13.58), 1 day ago) - Source code for @newrelic docs. We welcome pull requests and questions on our docs!
+- [newrelic/docs-website](https://github.com/newrelic/docs-website) ([release-12.29.2023-11.33](https://github.com/newrelic/docs-website/releases/tag/release-12.29.2023-11.33), 1 day ago) - Source code for @newrelic docs. We welcome pull requests and questions on our docs!
 - [port-labs/ocean](https://github.com/port-labs/ocean) ([v0.4.12](https://github.com/port-labs/ocean/releases/tag/v0.4.12), 1 week ago) - 🌊 Ocean 🌊 is an innovative solution developed by Port to seamlessly integrate various third-party systems with our developer portal product, empowering engineers to effortlessly prioritize key features and streamline the integration process.
 - [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action) ([0.16.0](https://github.com/aquasecurity/trivy-action/releases/tag/0.16.0), 3 weeks ago) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities
 - [kedacore/keda](https://github.com/kedacore/keda) ([v2.12.1](https://github.com/kedacore/keda/releases/tag/v2.12.1), 1 month ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
