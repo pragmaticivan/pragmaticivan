@@ -20,10 +20,10 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 
 #### 🚀 Latest releases I've contributed to
 
-- [newrelic/docs-website](https://github.com/newrelic/docs-website) ([release-01.18.2024-14.37](https://github.com/newrelic/docs-website/releases/tag/release-01.18.2024-14.37), 1 day ago) - Source code for @newrelic docs. We welcome pull requests and questions on our docs!
+- [newrelic/docs-website](https://github.com/newrelic/docs-website) ([release-01.19.2024-14.09](https://github.com/newrelic/docs-website/releases/tag/release-01.19.2024-14.09), 1 day ago) - Source code for @newrelic docs. We welcome pull requests and questions on our docs!
+- [kedacore/keda](https://github.com/kedacore/keda) ([v2.13.0](https://github.com/kedacore/keda/releases/tag/v2.13.0), 1 day ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
 - [port-labs/ocean](https://github.com/port-labs/ocean) ([v0.4.16](https://github.com/port-labs/ocean/releases/tag/v0.4.16), 1 week ago) - 🌊 Ocean 🌊 is an innovative solution developed by Port to seamlessly integrate various third-party systems with our developer portal product, empowering engineers to effortlessly prioritize key features and streamline the integration process.
 - [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action) ([0.16.1](https://github.com/aquasecurity/trivy-action/releases/tag/0.16.1), 2 weeks ago) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities
-- [kedacore/keda](https://github.com/kedacore/keda) ([v2.12.1](https://github.com/kedacore/keda/releases/tag/v2.12.1), 1 month ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
 - [pragmaticivan/nest-resend](https://github.com/pragmaticivan/nest-resend) ([v2.0.0](https://github.com/pragmaticivan/nest-resend/releases/tag/v2.0.0), 1 month ago) - Injectable Resend client for your nestjs projects
 - [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) ([v5.1.5](https://github.com/pragmaticivan/nestjs-otel/releases/tag/v5.1.5), 4 months ago) - OpenTelemetry (Tracing &#43; Metrics) module for Nest framework (node.js)  🔭
 - [inception-health/otel-export-trace-action](https://github.com/inception-health/otel-export-trace-action) ([v1.8.0](https://github.com/inception-health/otel-export-trace-action/releases/tag/v1.8.0), 10 months ago)
