@@ -20,8 +20,8 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 
 #### 🚀 Latest releases I've contributed to
 
-- [newrelic/docs-website](https://github.com/newrelic/docs-website) ([release-01.19.2024-16.34](https://github.com/newrelic/docs-website/releases/tag/release-01.19.2024-16.34), 2 days ago) - Source code for @newrelic docs. We welcome pull requests and questions on our docs!
-- [kedacore/keda](https://github.com/kedacore/keda) ([v2.13.0](https://github.com/kedacore/keda/releases/tag/v2.13.0), 3 days ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
+- [newrelic/docs-website](https://github.com/newrelic/docs-website) ([release-01.22.2024-14.29](https://github.com/newrelic/docs-website/releases/tag/release-01.22.2024-14.29), 1 day ago) - Source code for @newrelic docs. We welcome pull requests and questions on our docs!
+- [kedacore/keda](https://github.com/kedacore/keda) ([v2.13.0](https://github.com/kedacore/keda/releases/tag/v2.13.0), 4 days ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
 - [port-labs/ocean](https://github.com/port-labs/ocean) ([v0.4.16](https://github.com/port-labs/ocean/releases/tag/v0.4.16), 1 week ago) - 🌊 Ocean 🌊 is an innovative solution developed by Port to seamlessly integrate various third-party systems with our developer portal product, empowering engineers to effortlessly prioritize key features and streamline the integration process.
 - [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action) ([0.16.1](https://github.com/aquasecurity/trivy-action/releases/tag/0.16.1), 2 weeks ago) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities
 - [pragmaticivan/nest-resend](https://github.com/pragmaticivan/nest-resend) ([v2.0.0](https://github.com/pragmaticivan/nest-resend/releases/tag/v2.0.0), 1 month ago) - Injectable Resend client for your nestjs projects
