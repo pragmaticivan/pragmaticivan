@@ -20,7 +20,7 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 
 #### 🚀 Latest releases I've contributed to
 
-- [newrelic/docs-website](https://github.com/newrelic/docs-website) ([release-02.27.2024-14.56](https://github.com/newrelic/docs-website/releases/tag/release-02.27.2024-14.56), 1 day ago) - Source code for @newrelic docs. We welcome pull requests and questions on our docs!
+- [newrelic/docs-website](https://github.com/newrelic/docs-website) ([release-02.28.2024-15.14](https://github.com/newrelic/docs-website/releases/tag/release-02.28.2024-15.14), 1 day ago) - Source code for @newrelic docs. We welcome pull requests and questions on our docs!
 - [port-labs/ocean](https://github.com/port-labs/ocean) ([v0.5.2](https://github.com/port-labs/ocean/releases/tag/v0.5.2), 1 week ago) - 🌊 Ocean 🌊 is an innovative solution developed by Port to seamlessly integrate various third-party systems with our developer portal product, empowering engineers to effortlessly prioritize key features and streamline the integration process.
 - [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action) ([0.17.0](https://github.com/aquasecurity/trivy-action/releases/tag/0.17.0), 3 weeks ago) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities
 - [kedacore/charts](https://github.com/kedacore/charts) ([keda-add-ons-http-v0.7.0](https://github.com/kedacore/charts/releases/tag/keda-add-ons-http-v0.7.0), 1 month ago) - Helm charts for KEDA
