@@ -20,8 +20,8 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 
 #### 🚀 Latest releases I've contributed to
 
-- [port-labs/ocean](https://github.com/port-labs/ocean) ([v0.5.5](https://github.com/port-labs/ocean/releases/tag/v0.5.5), 1 day ago) - 🌊 Ocean 🌊 is an innovative solution developed by Port to seamlessly integrate various third-party systems with our developer portal product, empowering engineers to effortlessly prioritize key features and streamline the integration process.
-- [newrelic/docs-website](https://github.com/newrelic/docs-website) ([release-03.06.2024-11.23](https://github.com/newrelic/docs-website/releases/tag/release-03.06.2024-11.23), 1 day ago) - Source code for @newrelic docs. We welcome pull requests and questions on our docs!
+- [port-labs/ocean](https://github.com/port-labs/ocean) ([v0.5.5](https://github.com/port-labs/ocean/releases/tag/v0.5.5), 2 days ago) - 🌊 Ocean 🌊 is an innovative solution developed by Port to seamlessly integrate various third-party systems with our developer portal product, empowering engineers to effortlessly prioritize key features and streamline the integration process.
+- [newrelic/docs-website](https://github.com/newrelic/docs-website) ([release-03.06.2024-11.23](https://github.com/newrelic/docs-website/releases/tag/release-03.06.2024-11.23), 2 days ago) - Source code for @newrelic docs. We welcome pull requests and questions on our docs!
 - [kedacore/charts](https://github.com/kedacore/charts) ([v2.13.2](https://github.com/kedacore/charts/releases/tag/v2.13.2), 1 week ago) - Helm charts for KEDA
 - [kedacore/keda](https://github.com/kedacore/keda) ([v2.13.1](https://github.com/kedacore/keda/releases/tag/v2.13.1), 1 week ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
 - [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action) ([0.18.0](https://github.com/aquasecurity/trivy-action/releases/tag/0.18.0), 1 week ago) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities
