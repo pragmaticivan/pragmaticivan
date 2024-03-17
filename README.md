@@ -20,7 +20,7 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 
 #### 🚀 Latest releases I've contributed to
 
-- [newrelic/docs-website](https://github.com/newrelic/docs-website) ([release-03.15.2024-10.02](https://github.com/newrelic/docs-website/releases/tag/release-03.15.2024-10.02), 1 day ago) - Source code for @newrelic docs. We welcome pull requests and questions on our docs!
+- [newrelic/docs-website](https://github.com/newrelic/docs-website) ([release-03.15.2024-18.15](https://github.com/newrelic/docs-website/releases/tag/release-03.15.2024-18.15), 1 day ago) - Source code for @newrelic docs. We welcome pull requests and questions on our docs!
 - [port-labs/ocean](https://github.com/port-labs/ocean) ([v0.5.5](https://github.com/port-labs/ocean/releases/tag/v0.5.5), 1 week ago) - 🌊 Ocean 🌊 is an innovative solution developed by Port to seamlessly integrate various third-party systems with our developer portal product, empowering engineers to effortlessly prioritize key features and streamline the integration process.
 - [kedacore/charts](https://github.com/kedacore/charts) ([v2.13.2](https://github.com/kedacore/charts/releases/tag/v2.13.2), 2 weeks ago) - Helm charts for KEDA
 - [kedacore/keda](https://github.com/kedacore/keda) ([v2.13.1](https://github.com/kedacore/keda/releases/tag/v2.13.1), 2 weeks ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
