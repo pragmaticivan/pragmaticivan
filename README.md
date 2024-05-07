@@ -14,15 +14,15 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 
 #### 👨‍💻 Repositories I created recently
 
+- [pragmaticivan/nixos-config](https://github.com/pragmaticivan/nixos-config) - My Personal Nix, NixOS and Nix-Darwin System Configuration Flake
 - [pragmaticivan/nest-resend](https://github.com/pragmaticivan/nest-resend) - Injectable Resend client for your nestjs projects
 - [pragmaticivan/nestjs-otel-prom-grafana-tempo-otel-collector](https://github.com/pragmaticivan/nestjs-otel-prom-grafana-tempo-otel-collector) - nestjs-otel-prom-grafana-tempo-otel-collector
-- [pragmaticivan/nestjs-otel-fastify-prom-grafana-tempo](https://github.com/pragmaticivan/nestjs-otel-fastify-prom-grafana-tempo) - nestjs-otel-fastify-prom-grafana-tempo
 
 #### 🚀 Latest releases I've contributed to
 
-- [newrelic/docs-website](https://github.com/newrelic/docs-website) ([release-05.03.2024-13.22](https://github.com/newrelic/docs-website/releases/tag/release-05.03.2024-13.22), 3 days ago) - Source code for @newrelic docs. We welcome pull requests and questions on our docs!
-- [kedacore/charts](https://github.com/kedacore/charts) ([v2.14.2](https://github.com/kedacore/charts/releases/tag/v2.14.2), 3 days ago) - Helm charts for KEDA
-- [port-labs/ocean](https://github.com/port-labs/ocean) ([v0.5.17](https://github.com/port-labs/ocean/releases/tag/v0.5.17), 5 days ago) - 🌊 Ocean 🌊 is an innovative solution developed by Port to seamlessly integrate various third-party systems with our developer portal product, empowering engineers to effortlessly prioritize key features and streamline the integration process.
+- [newrelic/docs-website](https://github.com/newrelic/docs-website) ([release-05.06.2024-16.51](https://github.com/newrelic/docs-website/releases/tag/release-05.06.2024-16.51), 1 day ago) - Source code for @newrelic docs. We welcome pull requests and questions on our docs!
+- [kedacore/charts](https://github.com/kedacore/charts) ([v2.14.2](https://github.com/kedacore/charts/releases/tag/v2.14.2), 4 days ago) - Helm charts for KEDA
+- [port-labs/ocean](https://github.com/port-labs/ocean) ([v0.5.17](https://github.com/port-labs/ocean/releases/tag/v0.5.17), 6 days ago) - 🌊 Ocean 🌊 is an innovative solution developed by Port to seamlessly integrate various third-party systems with our developer portal product, empowering engineers to effortlessly prioritize key features and streamline the integration process.
 - [kedacore/keda](https://github.com/kedacore/keda) ([v2.14.0](https://github.com/kedacore/keda/releases/tag/v2.14.0), 1 week ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
 - [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action) ([0.19.0](https://github.com/aquasecurity/trivy-action/releases/tag/0.19.0), 1 month ago) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities
 - [pragmaticivan/nest-resend](https://github.com/pragmaticivan/nest-resend) ([v2.0.0](https://github.com/pragmaticivan/nest-resend/releases/tag/v2.0.0), 5 months ago) - Injectable Resend client for your nestjs projects
