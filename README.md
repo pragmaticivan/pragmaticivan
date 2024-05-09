@@ -20,11 +20,11 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 
 #### 🚀 Latest releases I've contributed to
 
-- [newrelic/docs-website](https://github.com/newrelic/docs-website) ([release-05.07.2024-16.14](https://github.com/newrelic/docs-website/releases/tag/release-05.07.2024-16.14), 1 day ago) - Source code for @newrelic docs. We welcome pull requests and questions on our docs!
-- [kedacore/charts](https://github.com/kedacore/charts) ([v2.14.2](https://github.com/kedacore/charts/releases/tag/v2.14.2), 5 days ago) - Helm charts for KEDA
+- [newrelic/docs-website](https://github.com/newrelic/docs-website) ([release-05.08.2024-16.20](https://github.com/newrelic/docs-website/releases/tag/release-05.08.2024-16.20), 1 day ago) - Source code for @newrelic docs. We welcome pull requests and questions on our docs!
+- [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action) ([0.20.0](https://github.com/aquasecurity/trivy-action/releases/tag/0.20.0), 1 day ago) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities
+- [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) ([v6.0.0](https://github.com/pragmaticivan/nestjs-otel/releases/tag/v6.0.0), 1 day ago) - OpenTelemetry (Tracing &#43; Metrics) module for Nest framework (node.js)  🔭
+- [kedacore/charts](https://github.com/kedacore/charts) ([v2.14.2](https://github.com/kedacore/charts/releases/tag/v2.14.2), 6 days ago) - Helm charts for KEDA
 - [port-labs/ocean](https://github.com/port-labs/ocean) ([v0.5.17](https://github.com/port-labs/ocean/releases/tag/v0.5.17), 1 week ago) - 🌊 Ocean 🌊 is an innovative solution developed by Port to seamlessly integrate various third-party systems with our developer portal product, empowering engineers to effortlessly prioritize key features and streamline the integration process.
-- [kedacore/keda](https://github.com/kedacore/keda) ([v2.14.0](https://github.com/kedacore/keda/releases/tag/v2.14.0), 1 week ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
-- [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action) ([0.19.0](https://github.com/aquasecurity/trivy-action/releases/tag/0.19.0), 1 month ago) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities
+- [kedacore/keda](https://github.com/kedacore/keda) ([v2.14.0](https://github.com/kedacore/keda/releases/tag/v2.14.0), 2 weeks ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
 - [pragmaticivan/nest-resend](https://github.com/pragmaticivan/nest-resend) ([v2.0.0](https://github.com/pragmaticivan/nest-resend/releases/tag/v2.0.0), 5 months ago) - Injectable Resend client for your nestjs projects
-- [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) ([v5.1.5](https://github.com/pragmaticivan/nestjs-otel/releases/tag/v5.1.5), 8 months ago) - OpenTelemetry (Tracing &#43; Metrics) module for Nest framework (node.js)  🔭
 - [pragmaticivan/ivansantos.me](https://github.com/pragmaticivan/ivansantos.me) ([3.0.0](https://github.com/pragmaticivan/ivansantos.me/releases/tag/3.0.0), 7 years ago) - :computer: My personal website
