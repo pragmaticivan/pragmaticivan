@@ -20,8 +20,8 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 
 #### 🚀 Latest releases I've contributed to
 
-- [newrelic/docs-website](https://github.com/newrelic/docs-website) ([release-05.17.2024-20.07](https://github.com/newrelic/docs-website/releases/tag/release-05.17.2024-20.07), 1 day ago) - Source code for @newrelic docs. We welcome pull requests and questions on our docs!
-- [port-labs/ocean](https://github.com/port-labs/ocean) ([v0.5.19](https://github.com/port-labs/ocean/releases/tag/v0.5.19), 3 days ago) - 🌊 Ocean 🌊 is an innovative solution developed by Port to seamlessly integrate various third-party systems with our developer portal product, empowering engineers to effortlessly prioritize key features and streamline the integration process.
+- [newrelic/docs-website](https://github.com/newrelic/docs-website) ([release-05.17.2024-20.07](https://github.com/newrelic/docs-website/releases/tag/release-05.17.2024-20.07), 2 days ago) - Source code for @newrelic docs. We welcome pull requests and questions on our docs!
+- [port-labs/ocean](https://github.com/port-labs/ocean) ([v0.5.19](https://github.com/port-labs/ocean/releases/tag/v0.5.19), 4 days ago) - 🌊 Ocean 🌊 is an innovative solution developed by Port to seamlessly integrate various third-party systems with our developer portal product, empowering engineers to effortlessly prioritize key features and streamline the integration process.
 - [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) ([v6.1.0](https://github.com/pragmaticivan/nestjs-otel/releases/tag/v6.1.0), 1 week ago) - OpenTelemetry (Tracing &#43; Metrics) module for Nest framework (node.js)  🔭
 - [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action) ([0.20.0](https://github.com/aquasecurity/trivy-action/releases/tag/0.20.0), 1 week ago) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities
 - [kedacore/charts](https://github.com/kedacore/charts) ([v2.14.2](https://github.com/kedacore/charts/releases/tag/v2.14.2), 2 weeks ago) - Helm charts for KEDA
