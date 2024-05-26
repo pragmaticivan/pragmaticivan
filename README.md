@@ -20,8 +20,8 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 
 #### 🚀 Latest releases I've contributed to
 
-- [newrelic/docs-website](https://github.com/newrelic/docs-website) ([release-05.24.2024-15.53](https://github.com/newrelic/docs-website/releases/tag/release-05.24.2024-15.53), 1 day ago) - Source code for @newrelic docs. We welcome pull requests and questions on our docs!
-- [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action) ([0.21.0](https://github.com/aquasecurity/trivy-action/releases/tag/0.21.0), 2 days ago) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities
+- [newrelic/docs-website](https://github.com/newrelic/docs-website) ([release-05.24.2024-22.14](https://github.com/newrelic/docs-website/releases/tag/release-05.24.2024-22.14), 1 day ago) - Source code for @newrelic docs. We welcome pull requests and questions on our docs!
+- [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action) ([0.21.0](https://github.com/aquasecurity/trivy-action/releases/tag/0.21.0), 3 days ago) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities
 - [port-labs/ocean](https://github.com/port-labs/ocean) ([v0.5.19](https://github.com/port-labs/ocean/releases/tag/v0.5.19), 1 week ago) - 🌊 Ocean 🌊 is an innovative solution developed by Port to seamlessly integrate various third-party systems with our developer portal product, empowering engineers to effortlessly prioritize key features and streamline the integration process.
 - [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) ([v6.1.0](https://github.com/pragmaticivan/nestjs-otel/releases/tag/v6.1.0), 2 weeks ago) - OpenTelemetry (Tracing &#43; Metrics) module for Nest framework (node.js)  🔭
 - [kedacore/charts](https://github.com/kedacore/charts) ([v2.14.2](https://github.com/kedacore/charts/releases/tag/v2.14.2), 3 weeks ago) - Helm charts for KEDA
