@@ -20,7 +20,7 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 
 #### 🚀 Latest releases I've contributed to
 
-- [port-labs/ocean](https://github.com/port-labs/ocean) ([v0.5.25](https://github.com/port-labs/ocean/releases/tag/v0.5.25), 1 day ago) - 🌊 Ocean 🌊 is an innovative solution developed by Port to seamlessly integrate various third-party systems with our developer portal product, empowering engineers to effortlessly prioritize key features and streamline the integration process.
+- [port-labs/ocean](https://github.com/port-labs/ocean) ([v0.5.26](https://github.com/port-labs/ocean/releases/tag/v0.5.26), 1 day ago) - 🌊 Ocean 🌊 is an innovative solution developed by Port to seamlessly integrate various third-party systems with our developer portal product, empowering engineers to effortlessly prioritize key features and streamline the integration process.
 - [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) ([v6.1.1](https://github.com/pragmaticivan/nestjs-otel/releases/tag/v6.1.1), 1 week ago) - OpenTelemetry (Tracing &#43; Metrics) module for Nest framework (node.js)  🔭
 - [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action) ([0.21.0](https://github.com/aquasecurity/trivy-action/releases/tag/0.21.0), 1 week ago) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities
 - [kedacore/charts](https://github.com/kedacore/charts) ([v2.14.2](https://github.com/kedacore/charts/releases/tag/v2.14.2), 1 month ago) - Helm charts for KEDA
