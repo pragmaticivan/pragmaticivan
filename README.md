@@ -20,8 +20,8 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 
 #### 🚀 Latest releases I've contributed to
 
-- [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action) ([0.22.0](https://github.com/aquasecurity/trivy-action/releases/tag/0.22.0), 3 days ago) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities
-- [port-labs/ocean](https://github.com/port-labs/ocean) ([v0.5.27](https://github.com/port-labs/ocean/releases/tag/v0.5.27), 4 days ago) - 🌊 Ocean 🌊 is an innovative solution developed by Port to seamlessly integrate various third-party systems with our developer portal product, empowering engineers to effortlessly prioritize key features and streamline the integration process.
+- [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action) ([0.22.0](https://github.com/aquasecurity/trivy-action/releases/tag/0.22.0), 4 days ago) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities
+- [port-labs/ocean](https://github.com/port-labs/ocean) ([v0.5.27](https://github.com/port-labs/ocean/releases/tag/v0.5.27), 5 days ago) - 🌊 Ocean 🌊 is an innovative solution developed by Port to seamlessly integrate various third-party systems with our developer portal product, empowering engineers to effortlessly prioritize key features and streamline the integration process.
 - [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) ([v6.1.1](https://github.com/pragmaticivan/nestjs-otel/releases/tag/v6.1.1), 2 weeks ago) - OpenTelemetry (Tracing &#43; Metrics) module for Nest framework (node.js)  🔭
 - [kedacore/charts](https://github.com/kedacore/charts) ([v2.14.2](https://github.com/kedacore/charts/releases/tag/v2.14.2), 1 month ago) - Helm charts for KEDA
 - [kedacore/keda](https://github.com/kedacore/keda) ([v2.14.0](https://github.com/kedacore/keda/releases/tag/v2.14.0), 1 month ago) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
