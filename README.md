@@ -14,7 +14,7 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 
 #### 👨‍💻 Repositories I created recently
 
-- [pragmaticivan/dotfiles](https://github.com/pragmaticivan/dotfiles) - chezmoi dotfiles
+- [pragmaticivan/dotfiles](https://github.com/pragmaticivan/dotfiles) - pragmaticivan&#39;s personal configurations
 - [pragmaticivan/nest-resend](https://github.com/pragmaticivan/nest-resend) - Injectable Resend client for your nestjs projects
 - [pragmaticivan/nestjs-otel-prom-grafana-tempo-otel-collector](https://github.com/pragmaticivan/nestjs-otel-prom-grafana-tempo-otel-collector) - nestjs-otel-prom-grafana-tempo-otel-collector
 
