@@ -20,8 +20,8 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 
 #### 🚀 Latest releases I've contributed to
 
-- [pragmaticivan/nest-resend](https://github.com/pragmaticivan/nest-resend) ([v3.0.0](https://github.com/pragmaticivan/nest-resend/releases/tag/v3.0.0), 1 day ago) - Injectable Resend client for your nestjs projects
-- [port-labs/ocean](https://github.com/port-labs/ocean) ([v0.9.1](https://github.com/port-labs/ocean/releases/tag/v0.9.1), 1 week ago) - 🌊 Ocean 🌊 is an innovative solution developed by Port to seamlessly integrate various third-party systems with our developer portal product, empowering engineers to effortlessly prioritize key features and streamline the integration process.
+- [pragmaticivan/nest-resend](https://github.com/pragmaticivan/nest-resend) ([v3.0.0](https://github.com/pragmaticivan/nest-resend/releases/tag/v3.0.0), 2 days ago) - Injectable Resend client for your nestjs projects
+- [port-labs/ocean](https://github.com/port-labs/ocean) ([v0.9.1](https://github.com/port-labs/ocean/releases/tag/v0.9.1), 2 weeks ago) - 🌊 Ocean 🌊 is an innovative solution developed by Port to seamlessly integrate various third-party systems with our developer portal product, empowering engineers to effortlessly prioritize key features and streamline the integration process.
 - [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action) ([0.23.0](https://github.com/aquasecurity/trivy-action/releases/tag/0.23.0), 2 weeks ago) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities
 - [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) ([v6.1.1](https://github.com/pragmaticivan/nestjs-otel/releases/tag/v6.1.1), 1 month ago) - OpenTelemetry (Tracing &#43; Metrics) module for Nest framework (node.js)  🔭
 - [kedacore/charts](https://github.com/kedacore/charts) ([v2.14.2](https://github.com/kedacore/charts/releases/tag/v2.14.2), 2 months ago) - Helm charts for KEDA
