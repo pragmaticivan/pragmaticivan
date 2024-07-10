@@ -20,9 +20,9 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 
 #### 🚀 Latest releases I've contributed to
 
-- [port-labs/ocean](https://github.com/port-labs/ocean) ([v0.9.2](https://github.com/port-labs/ocean/releases/tag/v0.9.2), 2 days ago) - 🌊 Ocean 🌊 is an innovative solution developed by Port to seamlessly integrate various third-party systems with our developer portal product, empowering engineers to effortlessly prioritize key features and streamline the integration process.
-- [pragmaticivan/nest-resend](https://github.com/pragmaticivan/nest-resend) ([v3.0.0](https://github.com/pragmaticivan/nest-resend/releases/tag/v3.0.0), 4 days ago) - Injectable Resend client for your nestjs projects
-- [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action) ([0.23.0](https://github.com/aquasecurity/trivy-action/releases/tag/0.23.0), 3 weeks ago) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities
+- [port-labs/ocean](https://github.com/port-labs/ocean) ([v0.9.3](https://github.com/port-labs/ocean/releases/tag/v0.9.3), 1 day ago) - 🌊 Ocean 🌊 is an innovative solution developed by Port to seamlessly integrate various third-party systems with our developer portal product, empowering engineers to effortlessly prioritize key features and streamline the integration process.
+- [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action) ([0.24.0](https://github.com/aquasecurity/trivy-action/releases/tag/0.24.0), 1 day ago) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities
+- [pragmaticivan/nest-resend](https://github.com/pragmaticivan/nest-resend) ([v3.0.0](https://github.com/pragmaticivan/nest-resend/releases/tag/v3.0.0), 5 days ago) - Injectable Resend client for your nestjs projects
 - [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) ([v6.1.1](https://github.com/pragmaticivan/nestjs-otel/releases/tag/v6.1.1), 1 month ago) - OpenTelemetry (Tracing &#43; Metrics) module for Nest framework (node.js)  🔭
 - [kedacore/charts](https://github.com/kedacore/charts) ([v2.14.2](https://github.com/kedacore/charts/releases/tag/v2.14.2), 2 months ago) - Helm charts for KEDA
 - [pragmaticivan/ivansantos.me](https://github.com/pragmaticivan/ivansantos.me) ([3.0.0](https://github.com/pragmaticivan/ivansantos.me/releases/tag/3.0.0), 7 years ago) - :computer: My personal website
