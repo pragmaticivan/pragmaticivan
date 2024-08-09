@@ -20,7 +20,7 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 
 #### 🚀 Latest releases I've contributed to
 
-- [port-labs/ocean](https://github.com/port-labs/ocean) ([v0.9.11](https://github.com/port-labs/ocean/releases/tag/v0.9.11), 3 days ago) - 🌊 Ocean 🌊 is an innovative solution developed by Port to seamlessly integrate various third-party systems with our developer portal product, empowering engineers to effortlessly prioritize key features and streamline the integration process.
+- [port-labs/ocean](https://github.com/port-labs/ocean) ([v0.9.11](https://github.com/port-labs/ocean/releases/tag/v0.9.11), 4 days ago) - 🌊 Ocean 🌊 is an innovative solution developed by Port to seamlessly integrate various third-party systems with our developer portal product, empowering engineers to effortlessly prioritize key features and streamline the integration process.
 - [kedacore/charts](https://github.com/kedacore/charts) ([v2.14.3](https://github.com/kedacore/charts/releases/tag/v2.14.3), 1 week ago) - Helm charts for KEDA
 - [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action) ([0.24.0](https://github.com/aquasecurity/trivy-action/releases/tag/0.24.0), 1 month ago) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities
 - [pragmaticivan/nest-resend](https://github.com/pragmaticivan/nest-resend) ([v3.0.0](https://github.com/pragmaticivan/nest-resend/releases/tag/v3.0.0), 1 month ago) - Injectable Resend client for your nestjs projects
