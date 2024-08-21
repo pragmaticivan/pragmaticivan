@@ -20,7 +20,7 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 
 #### 🚀 Latest releases I've contributed to
 
-- [port-labs/ocean](https://github.com/port-labs/ocean) ([v0.9.14](https://github.com/port-labs/ocean/releases/tag/v0.9.14), 1 day ago) - 🌊 Ocean 🌊 is an innovative solution developed by Port to seamlessly integrate various third-party systems with our developer portal product, empowering engineers to effortlessly prioritize key features and streamline the integration process.
+- [port-labs/ocean](https://github.com/port-labs/ocean) ([v0.9.14](https://github.com/port-labs/ocean/releases/tag/v0.9.14), 2 days ago) - 🌊 Ocean 🌊 is an innovative solution developed by Port to seamlessly integrate various third-party systems with our developer portal product, empowering engineers to effortlessly prioritize key features and streamline the integration process.
 - [kedacore/charts](https://github.com/kedacore/charts) ([v2.15.1](https://github.com/kedacore/charts/releases/tag/v2.15.1), 1 week ago) - Helm charts for KEDA
 - [pragmaticivan/otel-pino-transport](https://github.com/pragmaticivan/otel-pino-transport) ([v1.0.6](https://github.com/pragmaticivan/otel-pino-transport/releases/tag/v1.0.6), 1 week ago)
 - [open-telemetry/opentelemetry-lambda](https://github.com/open-telemetry/opentelemetry-lambda) ([layer-collector/0.9.0](https://github.com/open-telemetry/opentelemetry-lambda/releases/tag/layer-collector/0.9.0), 1 month ago) - Create your own Lambda Layer in each OTel language using this starter code. Add the Lambda Layer to your Lamdba Function to get tracing with OpenTelemetry.
