@@ -21,7 +21,7 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 #### 🚀 Latest releases I've contributed to
 
 - [open-telemetry/opentelemetry-lambda](https://github.com/open-telemetry/opentelemetry-lambda) ([layer-nodejs/0.9.0](https://github.com/open-telemetry/opentelemetry-lambda/releases/tag/layer-nodejs/0.9.0), 2 weeks ago) - Create your own Lambda Layer in each OTel language using this starter code. Add the Lambda Layer to your Lamdba Function to get tracing with OpenTelemetry.
-- [kedacore/charts](https://github.com/kedacore/charts) ([v2.15.1](https://github.com/kedacore/charts/releases/tag/v2.15.1), 3 weeks ago) - Helm charts for KEDA
+- [kedacore/charts](https://github.com/kedacore/charts) ([v2.15.1](https://github.com/kedacore/charts/releases/tag/v2.15.1), 4 weeks ago) - Helm charts for KEDA
 - [pragmaticivan/otel-pino-transport](https://github.com/pragmaticivan/otel-pino-transport) ([v1.0.6](https://github.com/pragmaticivan/otel-pino-transport/releases/tag/v1.0.6), 1 month ago)
 - [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action) ([0.24.0](https://github.com/aquasecurity/trivy-action/releases/tag/0.24.0), 2 months ago) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities
 - [pragmaticivan/nest-resend](https://github.com/pragmaticivan/nest-resend) ([v3.0.0](https://github.com/pragmaticivan/nest-resend/releases/tag/v3.0.0), 2 months ago) - Injectable Resend client for your nestjs projects
