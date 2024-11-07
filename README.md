@@ -20,10 +20,10 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 
 #### 🚀 Latest releases I've contributed to
 
-- [kedacore/charts](https://github.com/kedacore/charts) ([v2.15.2](https://github.com/kedacore/charts/releases/tag/v2.15.2), 2 weeks ago) - Helm charts for KEDA
+- [kedacore/charts](https://github.com/kedacore/charts) ([v2.15.2](https://github.com/kedacore/charts/releases/tag/v2.15.2), 3 weeks ago) - Helm charts for KEDA
 - [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action) ([0.28.0](https://github.com/aquasecurity/trivy-action/releases/tag/0.28.0), 3 weeks ago) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities
 - [open-telemetry/opentelemetry-lambda](https://github.com/open-telemetry/opentelemetry-lambda) ([layer-ruby/0.4.0](https://github.com/open-telemetry/opentelemetry-lambda/releases/tag/layer-ruby/0.4.0), 1 month ago) - Create your own Lambda Layer in each OTel language using this starter code. Add the Lambda Layer to your Lamdba Function to get tracing with OpenTelemetry.
-- [pragmaticivan/otel-pino-transport](https://github.com/pragmaticivan/otel-pino-transport) ([v1.0.6](https://github.com/pragmaticivan/otel-pino-transport/releases/tag/v1.0.6), 2 months ago)
+- [pragmaticivan/otel-pino-transport](https://github.com/pragmaticivan/otel-pino-transport) ([v1.0.6](https://github.com/pragmaticivan/otel-pino-transport/releases/tag/v1.0.6), 3 months ago)
 - [pragmaticivan/nest-resend](https://github.com/pragmaticivan/nest-resend) ([v3.0.0](https://github.com/pragmaticivan/nest-resend/releases/tag/v3.0.0), 4 months ago) - Injectable Resend client for your nestjs projects
 - [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) ([v6.1.1](https://github.com/pragmaticivan/nestjs-otel/releases/tag/v6.1.1), 5 months ago) - OpenTelemetry (Tracing &#43; Metrics) module for Nest framework (node.js)  🔭
 - [pragmaticivan/ivansantos.me](https://github.com/pragmaticivan/ivansantos.me) ([3.0.0](https://github.com/pragmaticivan/ivansantos.me/releases/tag/3.0.0), 7 years ago) - :computer: My personal website
