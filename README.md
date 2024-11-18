@@ -20,7 +20,7 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 
 #### 🚀 Latest releases I've contributed to
 
-- [open-telemetry/opentelemetry-lambda](https://github.com/open-telemetry/opentelemetry-lambda) ([layer-python/0.11.0](https://github.com/open-telemetry/opentelemetry-lambda/releases/tag/layer-python/0.11.0), 5 days ago) - Create your own Lambda Layer in each OTel language using this starter code. Add the Lambda Layer to your Lamdba Function to get tracing with OpenTelemetry.
+- [open-telemetry/opentelemetry-lambda](https://github.com/open-telemetry/opentelemetry-lambda) ([layer-python/0.11.0](https://github.com/open-telemetry/opentelemetry-lambda/releases/tag/layer-python/0.11.0), 6 days ago) - Create your own Lambda Layer in each OTel language using this starter code. Add the Lambda Layer to your Lamdba Function to get tracing with OpenTelemetry.
 - [kedacore/charts](https://github.com/kedacore/charts) ([v2.16.0](https://github.com/kedacore/charts/releases/tag/v2.16.0), 1 week ago) - Helm charts for KEDA
 - [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action) ([0.28.0](https://github.com/aquasecurity/trivy-action/releases/tag/0.28.0), 1 month ago) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities
 - [pragmaticivan/otel-pino-transport](https://github.com/pragmaticivan/otel-pino-transport) ([v1.0.6](https://github.com/pragmaticivan/otel-pino-transport/releases/tag/v1.0.6), 3 months ago)
