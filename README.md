@@ -25,5 +25,5 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 - [kedacore/charts](https://github.com/kedacore/charts) ([v2.16.0](https://github.com/kedacore/charts/releases/tag/v2.16.0), 1 month ago) - Helm charts for KEDA
 - [pragmaticivan/otel-pino-transport](https://github.com/pragmaticivan/otel-pino-transport) ([v1.0.6](https://github.com/pragmaticivan/otel-pino-transport/releases/tag/v1.0.6), 4 months ago)
 - [pragmaticivan/nest-resend](https://github.com/pragmaticivan/nest-resend) ([v3.0.0](https://github.com/pragmaticivan/nest-resend/releases/tag/v3.0.0), 5 months ago) - Injectable Resend client for your nestjs projects
-- [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) ([v6.1.1](https://github.com/pragmaticivan/nestjs-otel/releases/tag/v6.1.1), 6 months ago) - OpenTelemetry (Tracing &#43; Metrics) module for Nest framework (node.js)  🔭
+- [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) ([v6.1.1](https://github.com/pragmaticivan/nestjs-otel/releases/tag/v6.1.1), 7 months ago) - OpenTelemetry (Tracing &#43; Metrics) module for Nest framework (node.js)  🔭
 - [pragmaticivan/ivansantos.me](https://github.com/pragmaticivan/ivansantos.me) ([3.0.0](https://github.com/pragmaticivan/ivansantos.me/releases/tag/3.0.0), 7 years ago) - :computer: My personal website
