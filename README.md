@@ -20,9 +20,9 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 
 #### 🚀 Latest releases I've contributed to
 
+- [kedacore/charts](https://github.com/kedacore/charts) ([v2.16.1](https://github.com/kedacore/charts/releases/tag/v2.16.1), 1 day ago) - Helm charts for KEDA
 - [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) ([v1.33.0](https://github.com/open-telemetry/opentelemetry-go-contrib/releases/tag/v1.33.0), 1 week ago) - Collection of extensions for OpenTelemetry-Go.
 - [open-telemetry/opentelemetry-lambda](https://github.com/open-telemetry/opentelemetry-lambda) ([layer-python/0.11.0](https://github.com/open-telemetry/opentelemetry-lambda/releases/tag/layer-python/0.11.0), 1 month ago) - Create your own Lambda Layer in each OTel language using this starter code. Add the Lambda Layer to your Lamdba Function to get tracing with OpenTelemetry.
-- [kedacore/charts](https://github.com/kedacore/charts) ([v2.16.0](https://github.com/kedacore/charts/releases/tag/v2.16.0), 1 month ago) - Helm charts for KEDA
 - [pragmaticivan/otel-pino-transport](https://github.com/pragmaticivan/otel-pino-transport) ([v1.0.6](https://github.com/pragmaticivan/otel-pino-transport/releases/tag/v1.0.6), 4 months ago)
 - [pragmaticivan/nest-resend](https://github.com/pragmaticivan/nest-resend) ([v3.0.0](https://github.com/pragmaticivan/nest-resend/releases/tag/v3.0.0), 5 months ago) - Injectable Resend client for your nestjs projects
 - [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) ([v6.1.1](https://github.com/pragmaticivan/nestjs-otel/releases/tag/v6.1.1), 7 months ago) - OpenTelemetry (Tracing &#43; Metrics) module for Nest framework (node.js)  🔭
