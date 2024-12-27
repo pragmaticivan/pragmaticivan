@@ -20,7 +20,7 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 
 #### 🚀 Latest releases I've contributed to
 
-- [kedacore/charts](https://github.com/kedacore/charts) ([v2.16.1](https://github.com/kedacore/charts/releases/tag/v2.16.1), 2 days ago) - Helm charts for KEDA
+- [kedacore/charts](https://github.com/kedacore/charts) ([keda-add-ons-http-v0.9.0](https://github.com/kedacore/charts/releases/tag/keda-add-ons-http-v0.9.0), 1 day ago) - Helm charts for KEDA
 - [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) ([v1.33.0](https://github.com/open-telemetry/opentelemetry-go-contrib/releases/tag/v1.33.0), 2 weeks ago) - Collection of extensions for OpenTelemetry-Go.
 - [open-telemetry/opentelemetry-lambda](https://github.com/open-telemetry/opentelemetry-lambda) ([layer-python/0.11.0](https://github.com/open-telemetry/opentelemetry-lambda/releases/tag/layer-python/0.11.0), 1 month ago) - Create your own Lambda Layer in each OTel language using this starter code. Add the Lambda Layer to your Lamdba Function to get tracing with OpenTelemetry.
 - [pragmaticivan/otel-pino-transport](https://github.com/pragmaticivan/otel-pino-transport) ([v1.0.6](https://github.com/pragmaticivan/otel-pino-transport/releases/tag/v1.0.6), 4 months ago)
