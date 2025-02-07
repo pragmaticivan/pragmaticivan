@@ -20,9 +20,9 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 
 #### 🚀 Latest releases I've contributed to
 
-- [pragmaticivan/nest-resend](https://github.com/pragmaticivan/nest-resend) ([v3.1.0](https://github.com/pragmaticivan/nest-resend/releases/tag/v3.1.0), 5 days ago) - Injectable Resend client for your nestjs projects
-- [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) ([v1.34.0](https://github.com/open-telemetry/opentelemetry-go-contrib/releases/tag/v1.34.0), 2 weeks ago) - Collection of extensions for OpenTelemetry-Go.
-- [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) ([v6.1.2](https://github.com/pragmaticivan/nestjs-otel/releases/tag/v6.1.2), 2 weeks ago) - OpenTelemetry (Tracing &#43; Metrics) module for Nest framework (node.js)  🔭
+- [pragmaticivan/nest-resend](https://github.com/pragmaticivan/nest-resend) ([v3.1.0](https://github.com/pragmaticivan/nest-resend/releases/tag/v3.1.0), 6 days ago) - Injectable Resend client for your nestjs projects
+- [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) ([v1.34.0](https://github.com/open-telemetry/opentelemetry-go-contrib/releases/tag/v1.34.0), 3 weeks ago) - Collection of extensions for OpenTelemetry-Go.
+- [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) ([v6.1.2](https://github.com/pragmaticivan/nestjs-otel/releases/tag/v6.1.2), 3 weeks ago) - OpenTelemetry (Tracing &#43; Metrics) module for Nest framework (node.js)  🔭
 - [open-telemetry/opentelemetry-lambda](https://github.com/open-telemetry/opentelemetry-lambda) ([layer-python/0.11.0](https://github.com/open-telemetry/opentelemetry-lambda/releases/tag/layer-python/0.11.0), 2 months ago) - Create your own Lambda Layer in each OTel language using this starter code. Add the Lambda Layer to your Lamdba Function to get tracing with OpenTelemetry.
 - [pragmaticivan/otel-pino-transport](https://github.com/pragmaticivan/otel-pino-transport) ([v1.0.6](https://github.com/pragmaticivan/otel-pino-transport/releases/tag/v1.0.6), 6 months ago)
 - [pragmaticivan/ivansantos.me](https://github.com/pragmaticivan/ivansantos.me) ([3.0.0](https://github.com/pragmaticivan/ivansantos.me/releases/tag/3.0.0), 7 years ago) - :computer: My personal website
