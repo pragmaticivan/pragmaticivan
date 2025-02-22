@@ -21,7 +21,7 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 #### 🚀 Latest releases I've contributed to
 
 - [open-telemetry/opentelemetry-lambda](https://github.com/open-telemetry/opentelemetry-lambda) ([layer-ruby/0.5.0](https://github.com/open-telemetry/opentelemetry-lambda/releases/tag/layer-ruby/0.5.0), 1 week ago) - Create your own Lambda Layer in each OTel language using this starter code. Add the Lambda Layer to your Lambda Function to get tracing with OpenTelemetry.
-- [pragmaticivan/nest-resend](https://github.com/pragmaticivan/nest-resend) ([v3.1.0](https://github.com/pragmaticivan/nest-resend/releases/tag/v3.1.0), 2 weeks ago) - Injectable Resend client for your nestjs projects
+- [pragmaticivan/nest-resend](https://github.com/pragmaticivan/nest-resend) ([v3.1.0](https://github.com/pragmaticivan/nest-resend/releases/tag/v3.1.0), 3 weeks ago) - Injectable Resend client for your nestjs projects
 - [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) ([v1.34.0](https://github.com/open-telemetry/opentelemetry-go-contrib/releases/tag/v1.34.0), 1 month ago) - Collection of extensions for OpenTelemetry-Go.
 - [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) ([v6.1.2](https://github.com/pragmaticivan/nestjs-otel/releases/tag/v6.1.2), 1 month ago) - OpenTelemetry (Tracing &#43; Metrics) module for Nest framework (node.js)  🔭
 - [pragmaticivan/otel-pino-transport](https://github.com/pragmaticivan/otel-pino-transport) ([v1.0.6](https://github.com/pragmaticivan/otel-pino-transport/releases/tag/v1.0.6), 6 months ago)
