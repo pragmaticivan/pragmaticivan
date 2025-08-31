@@ -20,7 +20,7 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 
 #### 🚀 Latest releases I've contributed to
 
-- [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) ([v1.38.0](https://github.com/open-telemetry/opentelemetry-go-contrib/releases/tag/v1.38.0), 1 day ago) - Collection of extensions for OpenTelemetry-Go.
+- [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) ([v1.38.0](https://github.com/open-telemetry/opentelemetry-go-contrib/releases/tag/v1.38.0), 2 days ago) - Collection of extensions for OpenTelemetry-Go.
 - [open-telemetry/opentelemetry-lambda](https://github.com/open-telemetry/opentelemetry-lambda) ([layer-ruby/0.9.0](https://github.com/open-telemetry/opentelemetry-lambda/releases/tag/layer-ruby/0.9.0), 1 week ago) - Create your own Lambda Layer in each OTel language using this starter code. Add the Lambda Layer to your Lambda Function to get tracing with OpenTelemetry.
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.19.2](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.19.2), 2 weeks ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) ([v7.0.1](https://github.com/pragmaticivan/nestjs-otel/releases/tag/v7.0.1), 3 weeks ago) - OpenTelemetry (Tracing &#43; Metrics) module for Nest framework (node.js)  🔭
