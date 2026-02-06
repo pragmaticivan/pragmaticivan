@@ -20,7 +20,7 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 
 #### 🚀 Latest releases I've contributed to
 
-- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-1.3.2](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-1.3.2), 2 days ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-1.3.2](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-1.3.2), 3 days ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) ([v8.0.2](https://github.com/pragmaticivan/nestjs-otel/releases/tag/v8.0.2), 2 weeks ago) - OpenTelemetry (Tracing &#43; Metrics) module for Nest framework (node.js)  🔭
 - [pragmaticivan/faro](https://github.com/pragmaticivan/faro) ([v0.3.2](https://github.com/pragmaticivan/faro/releases/tag/v0.3.2), 2 weeks ago) - Find newer versions of package dependencies for go applications
 - [open-telemetry/opentelemetry-lambda](https://github.com/open-telemetry/opentelemetry-lambda) ([layer-nodejs/0.19.0](https://github.com/open-telemetry/opentelemetry-lambda/releases/tag/layer-nodejs/0.19.0), 1 month ago) - Create your own Lambda Layer in each OTel language using this starter code. Add the Lambda Layer to your Lambda Function to get tracing with OpenTelemetry.
