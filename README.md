@@ -20,7 +20,7 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 
 #### 🚀 Latest releases I've contributed to
 
-- [tcgdex/cards-database](https://github.com/tcgdex/cards-database) ([v2.44.0](https://github.com/tcgdex/cards-database/releases/tag/v2.44.0), 5 days ago) - Pokémon Trading Card Game Card (TCG) Database for the TCGdex API. ⭐ Leave a star if the project interest you !
+- [tcgdex/cards-database](https://github.com/tcgdex/cards-database) ([v2.44.0](https://github.com/tcgdex/cards-database/releases/tag/v2.44.0), 6 days ago) - Pokémon Trading Card Game Card (TCG) Database for the TCGdex API. ⭐ Leave a star if the project interest you !
 - [open-telemetry/opentelemetry-lambda](https://github.com/open-telemetry/opentelemetry-lambda) ([layer-javaagent/0.19.0](https://github.com/open-telemetry/opentelemetry-lambda/releases/tag/layer-javaagent/0.19.0), 1 week ago) - Create your own Lambda Layer in each OTel language using this starter code. Add the Lambda Layer to your Lambda Function to get tracing with OpenTelemetry.
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-2.2.0](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-2.2.0), 2 weeks ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [pragmaticivan/faro](https://github.com/pragmaticivan/faro) ([v0.4.1](https://github.com/pragmaticivan/faro/releases/tag/v0.4.1), 1 month ago) - Find newer versions of package dependencies for go applications
