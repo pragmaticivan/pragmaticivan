@@ -20,9 +20,9 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 
 #### 🚀 Latest releases I've contributed to
 
-- [tcgdex/cards-database](https://github.com/tcgdex/cards-database) ([v2.44.0](https://github.com/tcgdex/cards-database/releases/tag/v2.44.0), 2 weeks ago) - Pokémon Trading Card Game Card (TCG) Database for the TCGdex API. ⭐ Leave a star if the project interest you !
+- [tcgdex/cards-database](https://github.com/tcgdex/cards-database) ([v2.45.0](https://github.com/tcgdex/cards-database/releases/tag/v2.45.0), 1 day ago) - Pokémon Trading Card Game Card (TCG) Database for the TCGdex API. ⭐ Leave a star if the project interest you !
 - [open-telemetry/opentelemetry-lambda](https://github.com/open-telemetry/opentelemetry-lambda) ([layer-javaagent/0.19.0](https://github.com/open-telemetry/opentelemetry-lambda/releases/tag/layer-javaagent/0.19.0), 2 weeks ago) - Create your own Lambda Layer in each OTel language using this starter code. Add the Lambda Layer to your Lambda Function to get tracing with OpenTelemetry.
-- [pragmaticivan/faro](https://github.com/pragmaticivan/faro) ([v0.4.1](https://github.com/pragmaticivan/faro/releases/tag/v0.4.1), 1 month ago) - Find newer versions of package dependencies for go applications
+- [pragmaticivan/faro](https://github.com/pragmaticivan/faro) ([v0.4.1](https://github.com/pragmaticivan/faro/releases/tag/v0.4.1), 2 months ago) - Find newer versions of package dependencies for go applications
 - [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) ([v8.0.2](https://github.com/pragmaticivan/nestjs-otel/releases/tag/v8.0.2), 2 months ago) - OpenTelemetry (Tracing &#43; Metrics) module for Nest framework (node.js)  🔭
 - [pragmaticivan/nest-resend](https://github.com/pragmaticivan/nest-resend) ([v3.1.0](https://github.com/pragmaticivan/nest-resend/releases/tag/v3.1.0), 1 year ago) - Injectable Resend client for your nestjs projects
 - [pragmaticivan/ivansantos.me](https://github.com/pragmaticivan/ivansantos.me) ([3.0.0](https://github.com/pragmaticivan/ivansantos.me/releases/tag/3.0.0), 9 years ago) - :computer: My personal website
