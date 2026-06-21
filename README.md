@@ -20,7 +20,7 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 
 #### 🚀 Latest releases I've contributed to
 
-- [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) ([v8.1.0](https://github.com/pragmaticivan/nestjs-otel/releases/tag/v8.1.0), 2 days ago) - OpenTelemetry (Tracing &#43; Metrics) module for Nest framework (node.js)  🔭
+- [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) ([v8.1.0](https://github.com/pragmaticivan/nestjs-otel/releases/tag/v8.1.0), 3 days ago) - OpenTelemetry (Tracing &#43; Metrics) module for Nest framework (node.js)  🔭
 - [tcgdex/cards-database](https://github.com/tcgdex/cards-database) ([v2.46.2](https://github.com/tcgdex/cards-database/releases/tag/v2.46.2), 2 weeks ago) - Pokémon Trading Card Game Card (TCG) Database for the TCGdex API. ⭐ Leave a star if the project interest you !
 - [open-telemetry/opentelemetry-lambda](https://github.com/open-telemetry/opentelemetry-lambda) ([layer-javaagent/0.20.0](https://github.com/open-telemetry/opentelemetry-lambda/releases/tag/layer-javaagent/0.20.0), 1 month ago) - Create your own Lambda Layer in each OTel language using this starter code. Add the Lambda Layer to your Lambda Function to get tracing with OpenTelemetry.
 - [pragmaticivan/faro](https://github.com/pragmaticivan/faro) ([v0.4.1](https://github.com/pragmaticivan/faro/releases/tag/v0.4.1), 4 months ago) - Find newer versions of package dependencies for go applications
