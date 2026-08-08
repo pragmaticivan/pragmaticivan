@@ -20,7 +20,7 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 
 #### 🚀 Latest releases I've contributed to
 
-- [tcgdex/cards-database](https://github.com/tcgdex/cards-database) ([v2.47.0](https://github.com/tcgdex/cards-database/releases/tag/v2.47.0), 2 weeks ago) - Pokémon Trading Card Game Card (TCG) Database for the TCGdex API. ⭐ Leave a star if the project interest you !
+- [tcgdex/cards-database](https://github.com/tcgdex/cards-database) ([v2.47.0](https://github.com/tcgdex/cards-database/releases/tag/v2.47.0), 3 weeks ago) - Pokémon Trading Card Game Card (TCG) Database for the TCGdex API. ⭐ Leave a star if the project interest you !
 - [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) ([v8.1.0](https://github.com/pragmaticivan/nestjs-otel/releases/tag/v8.1.0), 1 month ago) - OpenTelemetry (Tracing &#43; Metrics) module for Nest framework (node.js)  🔭
 - [pragmaticivan/faro](https://github.com/pragmaticivan/faro) ([v0.4.1](https://github.com/pragmaticivan/faro/releases/tag/v0.4.1), 5 months ago) - Find newer versions of package dependencies for go applications
 - [pragmaticivan/nest-resend](https://github.com/pragmaticivan/nest-resend) ([v3.1.0](https://github.com/pragmaticivan/nest-resend/releases/tag/v3.1.0), 2 years ago) - Injectable Resend client for your nestjs projects
