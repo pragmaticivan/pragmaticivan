@@ -14,12 +14,13 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 
 #### 👨‍💻 Repositories I created recently
 
+- [pragmaticivan/opencode-cursor-provider](https://github.com/pragmaticivan/opencode-cursor-provider) - OpenCode (v2) Cursor Provider
 - [pragmaticivan/faro](https://github.com/pragmaticivan/faro) - Find newer versions of package dependencies for go applications
 - [pragmaticivan/otel-pino-transport](https://github.com/pragmaticivan/otel-pino-transport)
-- [pragmaticivan/dotfiles](https://github.com/pragmaticivan/dotfiles) - pragmaticivan&#39;s personal configurations
 
 #### 🚀 Latest releases I've contributed to
 
+- [pragmaticivan/opencode-cursor-provider](https://github.com/pragmaticivan/opencode-cursor-provider) ([opencode-cursor-provider-v0.3.1](https://github.com/pragmaticivan/opencode-cursor-provider/releases/tag/opencode-cursor-provider-v0.3.1), today) - OpenCode (v2) Cursor Provider
 - [open-telemetry/opentelemetry-lambda](https://github.com/open-telemetry/opentelemetry-lambda) ([layer-python/0.21.0](https://github.com/open-telemetry/opentelemetry-lambda/releases/tag/layer-python/0.21.0), 3 weeks ago) - Create your own Lambda Layer in each OTel language using this starter code. Add the Lambda Layer to your Lambda Function to get tracing with OpenTelemetry.
 - [tcgdex/cards-database](https://github.com/tcgdex/cards-database) ([v2.47.0](https://github.com/tcgdex/cards-database/releases/tag/v2.47.0), 1 month ago) - Pokémon Trading Card Game Card (TCG) Database for the TCGdex API. ⭐ Leave a star if the project interest you !
 - [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) ([v8.1.0](https://github.com/pragmaticivan/nestjs-otel/releases/tag/v8.1.0), 2 months ago) - OpenTelemetry (Tracing &#43; Metrics) module for Nest framework (node.js)  🔭
