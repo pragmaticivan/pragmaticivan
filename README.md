@@ -20,10 +20,10 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 
 #### 🚀 Latest releases I've contributed to
 
-- [pragmaticivan/opencode-cursor-provider](https://github.com/pragmaticivan/opencode-cursor-provider) ([opencode-cursor-provider-v0.3.2](https://github.com/pragmaticivan/opencode-cursor-provider/releases/tag/opencode-cursor-provider-v0.3.2), 1 day ago) - OpenCode (v2) Cursor Provider
+- [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) ([v8.1.1](https://github.com/pragmaticivan/nestjs-otel/releases/tag/v8.1.1), 1 day ago) - OpenTelemetry (Tracing &#43; Metrics) module for Nest framework (node.js)  🔭
+- [pragmaticivan/opencode-cursor-provider](https://github.com/pragmaticivan/opencode-cursor-provider) ([opencode-cursor-provider-v0.3.3](https://github.com/pragmaticivan/opencode-cursor-provider/releases/tag/opencode-cursor-provider-v0.3.3), 1 day ago) - OpenCode (v2) Cursor Provider
 - [open-telemetry/opentelemetry-lambda](https://github.com/open-telemetry/opentelemetry-lambda) ([layer-python/0.21.0](https://github.com/open-telemetry/opentelemetry-lambda/releases/tag/layer-python/0.21.0), 4 weeks ago) - Create your own Lambda Layer in each OTel language using this starter code. Add the Lambda Layer to your Lambda Function to get tracing with OpenTelemetry.
 - [tcgdex/cards-database](https://github.com/tcgdex/cards-database) ([v2.47.0](https://github.com/tcgdex/cards-database/releases/tag/v2.47.0), 1 month ago) - Pokémon Trading Card Game Card (TCG) Database for the TCGdex API. ⭐ Leave a star if the project interest you !
-- [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) ([v8.1.0](https://github.com/pragmaticivan/nestjs-otel/releases/tag/v8.1.0), 2 months ago) - OpenTelemetry (Tracing &#43; Metrics) module for Nest framework (node.js)  🔭
 - [pragmaticivan/faro](https://github.com/pragmaticivan/faro) ([v0.4.1](https://github.com/pragmaticivan/faro/releases/tag/v0.4.1), 6 months ago) - Find newer versions of package dependencies for go applications
 - [pragmaticivan/nest-resend](https://github.com/pragmaticivan/nest-resend) ([v3.1.0](https://github.com/pragmaticivan/nest-resend/releases/tag/v3.1.0), 2 years ago) - Injectable Resend client for your nestjs projects
 - [pragmaticivan/ivansantos.me](https://github.com/pragmaticivan/ivansantos.me) ([3.0.0](https://github.com/pragmaticivan/ivansantos.me/releases/tag/3.0.0), 9 years ago) - :computer: My personal website
