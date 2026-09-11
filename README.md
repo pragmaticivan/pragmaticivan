@@ -20,8 +20,8 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 
 #### 🚀 Latest releases I've contributed to
 
-- [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) ([v8.1.1](https://github.com/pragmaticivan/nestjs-otel/releases/tag/v8.1.1), 3 days ago) - OpenTelemetry (Tracing &#43; Metrics) module for Nest framework (node.js)  🔭
-- [pragmaticivan/opencode-cursor-provider](https://github.com/pragmaticivan/opencode-cursor-provider) ([opencode-cursor-provider-v0.3.3](https://github.com/pragmaticivan/opencode-cursor-provider/releases/tag/opencode-cursor-provider-v0.3.3), 3 days ago) - OpenCode (v2) Cursor Provider
+- [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) ([v8.1.1](https://github.com/pragmaticivan/nestjs-otel/releases/tag/v8.1.1), 4 days ago) - OpenTelemetry (Tracing &#43; Metrics) module for Nest framework (node.js)  🔭
+- [pragmaticivan/opencode-cursor-provider](https://github.com/pragmaticivan/opencode-cursor-provider) ([opencode-cursor-provider-v0.3.3](https://github.com/pragmaticivan/opencode-cursor-provider/releases/tag/opencode-cursor-provider-v0.3.3), 4 days ago) - OpenCode (v2) Cursor Provider
 - [open-telemetry/opentelemetry-lambda](https://github.com/open-telemetry/opentelemetry-lambda) ([layer-python/0.21.0](https://github.com/open-telemetry/opentelemetry-lambda/releases/tag/layer-python/0.21.0), 1 month ago) - Create your own Lambda Layer in each OTel language using this starter code. Add the Lambda Layer to your Lambda Function to get tracing with OpenTelemetry.
 - [tcgdex/cards-database](https://github.com/tcgdex/cards-database) ([v2.47.0](https://github.com/tcgdex/cards-database/releases/tag/v2.47.0), 1 month ago) - Pokémon Trading Card Game Card (TCG) Database for the TCGdex API. ⭐ Leave a star if the project interest you !
 - [pragmaticivan/faro](https://github.com/pragmaticivan/faro) ([v0.4.1](https://github.com/pragmaticivan/faro/releases/tag/v0.4.1), 6 months ago) - Find newer versions of package dependencies for go applications
