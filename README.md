@@ -20,7 +20,7 @@ Hi, I’ m Ivan, a Brazilian 🇧🇷 software engineer specializing on fault-to
 
 #### 🚀 Latest releases I've contributed to
 
-- [open-telemetry/opentelemetry-lambda](https://github.com/open-telemetry/opentelemetry-lambda) ([layer-collector/0.24.0](https://github.com/open-telemetry/opentelemetry-lambda/releases/tag/layer-collector/0.24.0), 1 day ago) - Create your own Lambda Layer in each OTel language using this starter code. Add the Lambda Layer to your Lambda Function to get tracing with OpenTelemetry.
+- [open-telemetry/opentelemetry-lambda](https://github.com/open-telemetry/opentelemetry-lambda) ([layer-collector/0.24.0](https://github.com/open-telemetry/opentelemetry-lambda/releases/tag/layer-collector/0.24.0), 2 days ago) - Create your own Lambda Layer in each OTel language using this starter code. Add the Lambda Layer to your Lambda Function to get tracing with OpenTelemetry.
 - [tcgdex/cards-database](https://github.com/tcgdex/cards-database) ([v2.48.0](https://github.com/tcgdex/cards-database/releases/tag/v2.48.0), 1 month ago) - Pokémon Trading Card Game Card (TCG) Database for the TCGdex API. ⭐ Leave a star if the project interest you !
 - [pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) ([v8.1.1](https://github.com/pragmaticivan/nestjs-otel/releases/tag/v8.1.1), 1 month ago) - OpenTelemetry (Tracing &#43; Metrics) module for Nest framework (node.js)  🔭
 - [pragmaticivan/opencode-cursor-provider](https://github.com/pragmaticivan/opencode-cursor-provider) ([opencode-cursor-provider-v0.3.3](https://github.com/pragmaticivan/opencode-cursor-provider/releases/tag/opencode-cursor-provider-v0.3.3), 1 month ago) - OpenCode (v2) Cursor Provider
